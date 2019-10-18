@@ -39,17 +39,18 @@
         "model": {
             "name": "resnet",
             "crop_generator": "crop_generator",
-            "metrics": ["accuracy"],
-            "epochs": 100,
-            "steps": 1000,
+            "metrics": ["accuracy", "top_k"],
+            "epochs": 300,
+            "steps": 5000,
             "params": {
-                "learning_rate": 0.001,
+                "learning_rate": 0.01,
                 "batch_size": 128,
                 "feature_dim": 100,
-                "conv_blocks": 18,
-                "latent_dim": 10,
-                "epsilon_std": 1.0,
-                "pooling":"avg"
+                "conv_blocks": 18
+            },
+            "lr_schedule": {
+                "epoch": [50,150],
+                "lr": [0.008,0.003]
             }
         },
         "sampling": {
@@ -62,8 +63,8 @@
             "alpha": 0.2    
         },
         "queueing": {
-            "queue_size": 512,
-            "loading_workers": 4
+            "queue_size": 128,
+            "loading_workers": 1
         },
         "comet_ml": {
             "track": false,
@@ -74,12 +75,12 @@
             "top_k": 5,
             "batch_size": 32,
             "frame": "val",
-            "sample_first_crops": false
+            "sample_first_crops": true
         }
     },
     "profile": {
       "feature_layer": "res4a_relu",
-      "checkpoint": "checkpoint_0281.hdf5",
+      "checkpoint": "checkpoint_0300.hdf5",
       "batch_size": 8,
       "pretrained": false
     }

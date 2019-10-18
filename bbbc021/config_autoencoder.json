@@ -11,6 +11,8 @@
                 "Actin"
               ],
             "file_format": "tif",
+            "width": 1280,
+            "height": 1024,
             "bits": 16
         }
     },
@@ -26,45 +28,42 @@
     },
     "train": {           
         "gpus": "0",
-        "dset": {
+        "partition": {
             "targets": [
                 "Compound_Concentration"
             ],
             "split_field": "Replicate",
             "training_values": [1,3],
-            "validation_values": [2],
-            "width": 1280,
-            "height": 1024,
-            "mask_objects": false
+            "validation_values": [2]
         },
-        "pretrained": false,
         "model": {
             "name": "autoencoder",
             "crop_generator": "autoencoder_crop_generator",
             "metrics": ["accuracy"],
             "epochs": 100,
-            "steps": 1000,
+            "steps": 5000,
             "params": {
                 "learning_rate": 0.001,
                 "batch_size": 128,
-                "feature_dim": 100,
-                "conv_blocks": 1,
-                "latent_dim": 10,
+                "feature_dim": 50,
+                "conv_blocks": 5,
+                "latent_dim": 100,
                 "epsilon_std": 1.0,
                 "pooling":"avg"
             }
         },
-        "sampling": {
+         "sampling": {
             "images": 20,
             "locations": 50,
             "locations_field": "Nuclei",
             "box_size": 96,
             "field": "Compound_Concentration",
+            "mask_objects": false,
             "alpha": 0.2    
         },
         "queueing": {
-            "queue_size": 512,
-            "loading_workers": 4
+            "queue_size": 64,
+            "loading_workers": 1
         },
         "comet_ml": {
             "track": false,
@@ -75,26 +74,14 @@
             "top_k": 5,
             "batch_size": 32,
             "frame": "val",
-            "sample_first_crops": false
+            "sample_first_crops": true
         }
     },
-    "optim": {
-        "names": [
-            "conv_blocks"
-        ],
-        "types": [
-            "discrete"
-        ],
-        "domains": [
-            "(1, 10)"
-        ],
-        "max_iter": 10
-    }, 
     "profile": {
-      "feature_layer": "activation_1",
-      "checkpoint": "checkpoint_0043.hdf5",
-      "batch_size": 8,
-      "gpus": "0"
+      "feature_layer": "activation_5",
+      "checkpoint": "checkpoint_0100.hdf5",
+      "batch_size": 4,
+      "pretrained": false
     }
   }
   
