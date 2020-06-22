@@ -1,0 +1,80 @@
+{
+    "dataset": {
+        "metadata": {
+            "label_field": "pert_name",
+            "control_value": "DMSO_0.0"
+        },
+        "images": {
+            "channels": [
+                "DNA",
+                "RNA",
+                "ER",
+                "AGP",
+                "Mito"
+              ],
+            "file_format": "tif",
+            "bits": 16,
+            "width": 1080,
+            "height": 1080
+        },
+	"locations":{
+	    "mode": "single_cells",
+            "box_size": 128,
+	    "area_coverage": 0.75,
+            "mask_objects": false
+	}
+    },
+    "prepare": {
+        "illumination_correction": {
+            "down_scale_factor": 4,
+            "median_filter_size": 24
+        },
+        "compression": {
+            "implement": false,
+            "scaling_factor": 1.0
+        }
+    },
+    "train": {           
+        "partition": {
+            "targets": [
+                "pert_name"
+            ],
+            "split_field": "val",
+            "training_values": [0],
+            "validation_values": [1]
+        },
+        "model": {
+            "name": "resnet",
+            "crop_generator": "crop_generator",
+            "metrics": ["accuracy", "top_k"],
+            "epochs": 100,
+	    "initialization":"ImageNet",
+            "params": {
+                "learning_rate": 0.01,
+                "batch_size": 24,
+                "conv_blocks": 50,
+                "feature_dim": 256,
+                "pooling": "None"
+            },
+            "lr_schedule": "cosine"
+        },
+        "sampling": {
+	    "factor": 0.5,
+            "workers": 4,
+	    "cache_size": 15000
+        },
+        "validation": {
+	    "frequency": 4,
+            "top_k": 5,
+            "batch_size": 24,
+            "frame": "val",
+            "sample_first_crops": true
+        }
+    },
+    "profile": {
+      "pretrained": false,
+      "feature_layer": "pool5",
+      "checkpoint": "checkpoint_0100.hdf5",
+      "batch_size": 8
+    }
+}
