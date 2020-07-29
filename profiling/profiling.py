@@ -3,11 +3,10 @@ import scipy.linalg
 import pandas as pd
 
 class WhiteningNormalizer(object):
-    def __init__(self, controls):
-        REG_PARAM = 10**np.log(1/controls.shape[0]) #1e-6
+    def __init__(self, controls, reg_param=1e-6):
         # Whitening transform on population level data
         self.mu = controls.mean()
-        self.whitening_transform(controls - self.mu, REG_PARAM, rotate=True)
+        self.whitening_transform(controls - self.mu, reg_param, rotate=True)
         print(self.mu.shape, self.W.shape)
         
     def whitening_transform(self, X, lambda_, rotate=True):
