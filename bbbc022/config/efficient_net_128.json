@@ -1,0 +1,79 @@
+{
+    "dataset": {
+      "metadata": {
+          "label_field": "Treatment",
+          "control_value": "NA@NA"
+      },
+      "images": {
+          "channels": [
+              "DNA",
+              "RNA",
+              "ER",
+              "AGP",
+              "Mito"
+            ],
+          "file_format": "tif",
+          "bits": 16,
+	  "width": 696,
+	  "height": 520
+      },
+      "locations": {
+          "mode" : "single_cells",
+          "box_size": 128,
+          "area_coverage": 1,
+          "mask_objects":false
+      }
+
+    },
+    "prepare": {
+        "illumination_correction": {
+            "down_scale_factor": 4,
+            "median_filter_size": 24
+        },
+        "compression": {
+            "implement": false,
+            "scaling_factor": 1.0
+        }
+    },
+    "train": {
+        "partition": {
+            "targets": [
+                "Treatment"
+            ],
+            "split_field": "broad_sample_Replicate",
+            "training_values": [1],
+            "validation_values": [2]
+        },
+        "model": {
+            "name": "efficientnet",
+            "crop_generator": "repeat_channel_crop_generator",
+            "metrics": ["accuracy", "top_k"],
+            "epochs": 200,
+            "initialization":"ImageNet",
+            "params": {
+                "conv_blocks": 0,
+                "learning_rate": 0.01,
+                "batch_size": 64,
+                "feature_dim": 50,
+                "pooling": "None"
+            }
+        },
+        "sampling": {
+            "factor": 1.0,
+            "cache_size": 40000,
+            "workers": 4
+        },
+        "validation": {
+            "top_k": 5,
+            "batch_size": 32,
+            "frame": "val",
+            "sample_first_crops": true
+        }
+    },
+    "profile": {
+      "feature_layer": "avg_pool",
+      "checkpoint": "efficientnet-b0_weights_tf_dim_ordering_tf_kernels_autoaugment.h5",
+      "use_pretrained_input_size": 224,
+      "batch_size": 8
+    }
+  }
