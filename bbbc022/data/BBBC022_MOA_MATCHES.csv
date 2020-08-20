@@ -1,0 +1,1048 @@
+,Var1,Metadata_moa.x,Metadata_Plate_Map_Name.x
+0,BRD-A00993607-003-05-5,Adrenergic receptor antagonist,H-BIOA-003-1
+1,BRD-A01078468-001-05-6,synthetic estrogen,H-BIOA-003-1
+2,BRD-A01295252-001-01-5,Dopamine receptor ligand,H-BIOA-003-1
+3,BRD-A01636364-003-05-2,sodium channel blocker,H-BIOA-003-1
+4,BRD-A01643550-001-02-3,Glucocorticoid receptor agonist,H-BIOA-006-1
+5,BRD-A01787639-300-03-7,adrenergic receptor antagonist,H-BIOA-004-1
+6,BRD-A02006392-001-06-5,calcium channel blocker,H-BIOA-004-1
+7,BRD-A02176148-001-02-2,Mitochondrial complex I inhibitor,H-BIOA-006-1
+8,BRD-A02367930-001-02-9,estrogen receptor agonist|estrogenic component in oral contraceptives,H-BIOA-005-1
+9,BRD-A02710418-003-03-5,opioid receptor agonist,H-BIOA-004-1
+10,BRD-A02759312-003-03-9,Adrenergic receptor antagonist,H-BIOA-004-1
+11,BRD-A03216249-003-02-9,potassium channel blocker|sodium channel blocker,H-BIOA-006-1
+12,BRD-A03623303-045-02-0,adrenergic receptor antagonist,H-BIOA-005-1
+13,BRD-A03932035-004-02-7,acetylcholine receptor antagonist,H-BIOA-005-1
+14,BRD-A04438777-001-01-4,dopamine receptor agonist,H-BIOA-004-1
+15,BRD-A04553218-050-03-0,histamine receptor antagonist,H-BIOA-002-1
+16,BRD-A04668240-001-01-5,GABA receptor antagonist,H-BIOA-003-1
+17,BRD-A05186015-003-05-7,dopamine uptake inhibitor,H-BIOA-003-1
+18,BRD-A05457250-001-03-5,L-type calcium channel activator,H-BIOA-002-1
+19,BRD-A06352418-001-03-6,Histamine receptor antagonist,H-BIOA-002-1
+20,BRD-A06726973-001-02-0,cGMP analog,H-BIOA-002-1
+21,BRD-A06935312-001-02-7,bacterial 30S ribosomal subunit inhibitor,H-BIOA-005-1
+22,BRD-A07207424-001-04-1,phosphodiesterase inhibitor,H-BIOA-002-1
+23,BRD-A07440155-003-05-6,adrenergic receptor antagonist,H-BIOA-004-1
+24,BRD-A07824748-001-03-4,11-beta hydroxysteroid dehydrogenase inhibitor,H-BIOA-005-1
+25,BRD-A07932845-001-01-1,anti-HCVE2,H-BIOA-002-1
+26,BRD-A07932845-050-05-9,anti-HCVE2,H-BIOA-004-1
+27,BRD-A07952294-001-02-3,farnesyltransferase inhibitors,H-BIOA-002-1
+28,BRD-A08187463-001-03-8,enkephalinase inhibitor,H-BIOA-002-1
+29,BRD-A08709697-001-02-9,pyrrolizidine alkaloid,H-BIOA-003-1
+30,BRD-A09056319-001-02-2,Adrenergic receptor antagonist,H-BIOA-006-1
+31,BRD-A09056319-003-03-6,Adrenergic receptor antagonist,H-BIOA-003-1
+32,BRD-A09062839-003-03-5,Local anesthetic,H-BIOA-002-1
+33,BRD-A09467419-003-04-2,acetylcholine receptor antagonist,H-BIOA-003-1
+34,BRD-A09472452-001-02-8,sodium channel blocker,H-BIOA-002-1
+35,BRD-A09472452-015-03-6,sodium channel blocker,H-BIOA-003-1
+36,BRD-A09533288-001-02-7,calcium channel blocker,H-BIOA-003-1
+37,BRD-A09533288-003-05-6,calcium channel blocker,H-BIOA-002-1
+38,BRD-A09539288-004-02-8,acetylcholine receptor antagonist,H-BIOA-005-1
+39,BRD-A09925278-003-03-1,Adrenergic receptor agonist,H-BIOA-004-1
+40,BRD-A10420615-001-02-8,ATPase inhibitor,H-BIOA-002-1
+41,BRD-A10715913-001-02-0,Dopamine receptor antagonist,H-BIOA-006-1
+42,BRD-A10977446-045-01-1,adrenergic receptor antagonist,H-BIOA-006-1
+43,BRD-A11605036-001-03-2,GABA receptor antagonist,H-BIOA-002-1
+44,BRD-A11776908-001-03-6,sterol demethylase inhibitor,H-BIOA-004-1
+45,BRD-A11813248-001-02-8,Potassium channel blocker,H-BIOA-003-1
+46,BRD-A12016240-001-01-7,Serotonin receptor antagonist,H-BIOA-002-1
+47,BRD-A13133631-001-02-4,glucocorticoid receptor agonist,H-BIOA-005-1
+48,BRD-A13650332-236-03-9,Bacterial cell wall synthesis inhibitor,H-BIOA-004-1
+49,BRD-A13946108-001-04-9,Cyclooxygenase inhibitor,H-BIOA-002-1
+50,BRD-A14395271-001-01-5,Dopamine receptor antagonist,H-BIOA-003-1
+51,BRD-A14395271-074-03-8,Dopamine receptor antagonist,H-BIOA-002-1
+52,BRD-A15297126-001-02-7,glucocorticoid receptor agonist,H-BIOA-005-1
+53,BRD-A15909516-001-02-5,free radical scavenger,H-BIOA-005-1
+54,BRD-A16332958-001-02-4,Adrenergic receptor agonist,H-BIOA-006-1
+55,BRD-A16665823-008-03-3,bacterial cell wall synthesis inhibitor,H-BIOA-004-1
+56,BRD-A17453586-001-01-9,Serotonin receptor agonist,H-BIOA-002-1
+57,BRD-A17462676-003-03-3,adrenergic receptor agonist,H-BIOA-004-1
+58,BRD-A17535965-001-02-2,Acetylcholine receptor antagonist,H-BIOA-003-1
+59,BRD-A17655518-001-02-0,cyclooxygenase inhibitor,H-BIOA-005-1
+60,BRD-A17819071-001-02-1,HSP inhibitor,H-BIOA-006-1
+61,BRD-A17846016-001-03-0,antioxidant,H-BIOA-005-1
+62,BRD-A18043272-001-03-2,succinimide antiepileptic,H-BIOA-004-1
+63,BRD-A18497530-001-04-6,adenosine kinase inhibitor|nucleoside transporter inhibitor,H-BIOA-003-1
+64,BRD-A18579359-001-03-1,Neural Wiskott-Aldrich syndrome protein inhibitor,H-BIOA-003-1
+65,BRD-A18620900-001-02-9,estrogen receptor agonist,H-BIOA-005-1
+66,BRD-A18917088-001-02-3,estrogen receptor agonist,H-BIOA-005-1
+67,BRD-A19053259-003-03-3,Anthelmintic,H-BIOA-002-1
+68,BRD-A19195498-050-05-9,norepinephrine reputake inhibitor|tricyclic antidepressant,H-BIOA-005-1
+69,BRD-A19661776-003-05-2,serotonin receptor antagonist,H-BIOA-002-1
+70,BRD-A19736161-001-01-8,serotonin receptor antagonist,H-BIOA-002-1
+71,BRD-A19736161-003-03-0,serotonin receptor antagonist,H-BIOA-004-1
+72,BRD-A19795905-001-02-3,mitochondrial electron transport inhibitor,H-BIOA-005-1
+73,BRD-A20126139-001-02-6,glucocorticoid receptor agonist,H-BIOA-005-1
+74,BRD-A20200672-001-02-2,gap junction modulator,H-BIOA-005-1
+75,BRD-A20239487-001-02-5,adrenergic receptor antagonist,H-BIOA-006-1
+76,BRD-A20348246-001-05-9,GABA receptor modulator,H-BIOA-003-1
+77,BRD-A21858158-001-05-2,anthelmintic agent,H-BIOA-003-1
+78,BRD-A22032524-074-02-4,calcium channel blocker,H-BIOA-006-1
+79,BRD-A22081593-001-04-6,adenosine receptor antagonist,H-BIOA-002-1
+80,BRD-A22143024-231-01-2,estrogen receptor agonist,H-BIOA-005-1
+81,BRD-A22256192-003-03-7,Adrenergic receptor antagonist,H-BIOA-003-1
+82,BRD-A22305049-003-05-2,gluconeogenesis inhibitor,H-BIOA-004-1
+83,BRD-A22380646-001-01-5,ATPase inhibitor,H-BIOA-006-1
+84,BRD-A22684332-003-02-3,adrenergic receptor agonist,H-BIOA-006-1
+85,BRD-A22769835-300-03-2,antihistamine,H-BIOA-003-1
+86,BRD-A22844106-001-05-4,Cyclooxygenase inhibitor,H-BIOA-002-1
+87,BRD-A23034328-003-03-4,protein synthesis inhibitor,H-BIOA-002-1
+88,BRD-A23072235-050-05-2,Histamine receptor antagonist,H-BIOA-002-1
+89,BRD-A23226398-001-02-7,estrogen receptor agonist,H-BIOA-005-1
+90,BRD-A24122750-001-01-1,GABA receptor antagonist,H-BIOA-003-1
+91,BRD-A24191444-045-03-1,adrenergic receptor antagonist|glutamate receptor antagonist,H-BIOA-003-1
+92,BRD-A24228527-001-05-9,bacterial DNA gyrase inhibitor,H-BIOA-003-1
+93,BRD-A24514565-001-02-2,vitamin K antagonist,H-BIOA-005-1
+94,BRD-A24587114-066-03-5,adrenergic receptor agonist,H-BIOA-003-1
+95,BRD-A24817035-001-05-4,central nervous system agent,H-BIOA-002-1
+96,BRD-A25234499-001-05-0,glucocorticoid receptor antagonist,H-BIOA-004-1
+97,BRD-A26095496-001-02-4,glucocorticoid receptor agonist,H-BIOA-006-1
+98,BRD-A26334849-001-02-1,antiarrhythmic,H-BIOA-003-1
+99,BRD-A26334849-003-05-0,antiarrhythmic,H-BIOA-004-1
+100,BRD-A26384407-001-05-3,carbonic anhydrase inhibitor,H-BIOA-004-1
+101,BRD-A26711594-001-02-7,calcium channel blocker,H-BIOA-002-1
+102,BRD-A26711594-003-05-6,calcium channel blocker,H-BIOA-004-1
+103,BRD-A27732521-003-02-6,voltage-gated sodium channel blocker,H-BIOA-006-1
+104,BRD-A27887842-001-02-4,Glucocorticoid receptor agonist,H-BIOA-006-1
+105,BRD-A28856712-003-05-4,adrenergic receptor agonist,H-BIOA-003-1
+106,BRD-A28970875-300-02-3,Protein synthesis inhibitor,H-BIOA-006-1
+107,BRD-A29082194-001-02-4,ATPase inhibitor,H-BIOA-006-1
+108,BRD-A29260609-003-05-4,adrenergic receptor antagonist,H-BIOA-002-1
+109,BRD-A29289453-001-02-1,platelet activating factor receptor antagonist,H-BIOA-003-1
+110,BRD-A29322418-237-02-4,mineralocorticoid receptor antagonist,H-BIOA-006-1
+111,BRD-A29426959-050-05-8,Histamine receptor antagonist,H-BIOA-003-1
+112,BRD-A29644307-050-05-5,Dopamine uptake inhibitor,H-BIOA-002-1
+113,BRD-A29731977-001-02-9,progesterone receptor agonist,H-BIOA-005-1
+114,BRD-A29734509-001-03-8,sodium channel blocker,H-BIOA-003-1
+115,BRD-A29734509-011-02-9,sodium channel blocker,H-BIOA-005-1
+116,BRD-A30655177-001-04-1,BTK inhibitor,H-BIOA-003-1
+117,BRD-A30815329-001-03-0,calcium channel blocker,H-BIOA-004-1
+118,BRD-A31159102-001-01-9,selective serotonin reuptake inhibitor (SSRI),H-BIOA-002-1
+119,BRD-A31159102-003-05-6,selective serotonin reuptake inhibitor (SSRI),H-BIOA-002-1
+120,BRD-A31521121-001-05-8,muscle relaxant,H-BIOA-002-1
+121,BRD-A32505112-001-02-8,angiotensin converting enzyme inhibitor,H-BIOA-006-1
+122,BRD-A32673558-003-02-1,acetylcholine receptor agonist,H-BIOA-006-1
+123,BRD-A33168282-003-03-2,adrenergic receptor antagonist,H-BIOA-004-1
+124,BRD-A33280134-001-02-1,topoisomerase inhibitor,H-BIOA-006-1
+125,BRD-A33447119-001-02-5,anthelmintic agent,H-BIOA-005-1
+126,BRD-A33711280-311-02-0,acetylcholine receptor antagonist,H-BIOA-004-1
+127,BRD-A33749298-001-05-0,cyclooxygenase inhibitor,H-BIOA-004-1
+128,BRD-A34255068-001-04-8,phosphodiesterase inhibitor,H-BIOA-002-1
+129,BRD-A34806832-001-02-7,ATPase inhibitor,H-BIOA-004-1
+130,BRD-A35588707-001-02-2,topoisomerase inhibitor,H-BIOA-005-1
+131,BRD-A35623999-001-03-2,mitochondrial Na+/Ca2+ exchanger antagonist|sodium/calcium exchange inhibitor,H-BIOA-002-1
+132,BRD-A35989968-001-02-6,progesterone receptor agonist,H-BIOA-005-1
+133,BRD-A36010170-001-02-4,glucocorticoid receptor agonist,H-BIOA-006-1
+134,BRD-A36066264-001-02-3,Estrogen receptor agonist,H-BIOA-006-1
+135,BRD-A36217750-001-05-6,Uricosuric blocker,H-BIOA-003-1
+136,BRD-A36471396-003-02-2,Acetylcholine receptor antagonist,H-BIOA-004-1
+137,BRD-A37432947-004-02-5,acetylcholine receptor antagonist,H-BIOA-002-1
+138,BRD-A37441042-003-02-2,adrenergic receptor agonist,H-BIOA-006-1
+139,BRD-A37817666-001-02-2,GABA receptor antagonist,H-BIOA-002-1
+140,BRD-A37959677-001-02-9,estrogen receptor agonist|estrogenic hormone,H-BIOA-006-1
+141,BRD-A38076815-003-03-8,DeltaF508-CFTR Correctors,H-BIOA-003-1
+142,BRD-A38350138-001-02-3,sterol demethylase inhibitor,H-BIOA-006-1
+143,BRD-A39230911-001-03-7,Muscle relaxant,H-BIOA-003-1
+144,BRD-A39268308-001-02-0,Acetylcholine receptor agonist,H-BIOA-002-1
+145,BRD-A39290993-001-03-2,Androgen receptor antagonist,H-BIOA-004-1
+146,BRD-A39415247-001-02-1,progesterone receptor agonist,H-BIOA-005-1
+147,BRD-A39747742-001-02-7,estrogen receptor agonist,H-BIOA-005-1
+148,BRD-A40787240-066-02-0,bacterial DNA gyrase inhibitor,H-BIOA-006-1
+149,BRD-A41145729-001-02-7,Retinoid receptor agonist,H-BIOA-002-1
+150,BRD-A41250306-001-03-4,Thiazide diuretic,H-BIOA-004-1
+151,BRD-A41301928-001-02-5,"Mitochondrial ADP, ATP translocase inhibitor",H-BIOA-002-1
+152,BRD-A41304429-001-04-9,Adrenergic receptor antagonist,H-BIOA-004-1
+153,BRD-A41451487-001-01-3,benzodiazepine receptor antagonist,H-BIOA-003-1
+154,BRD-A41519720-001-02-2,cholesterol inhibitor|Niemann-Pick C1-like 1 protein antagonist,H-BIOA-005-1
+155,BRD-A41698174-003-03-9,bacterial cell wall synthesis inhibitor,H-BIOA-005-1
+156,BRD-A41941932-001-03-0,Antioxidant,H-BIOA-002-1
+157,BRD-A41995253-001-02-9,glycine receptor antagonist,H-BIOA-005-1
+158,BRD-A42167015-003-03-7,Adrenergic receptor antagonist,H-BIOA-004-1
+159,BRD-A42571354-300-05-4,histamine receptor antagonist,H-BIOA-004-1
+160,BRD-A42628519-001-04-1,radiopaque medium,H-BIOA-004-1
+161,BRD-A42759514-001-03-1,antiprotozoal agent,H-BIOA-002-1
+162,BRD-A42831637-001-02-2,anti-inflammatory|Cannabinoid metabolite,H-BIOA-002-1
+163,BRD-A43671941-003-03-6,Adrenergic receptor antagonist,H-BIOA-004-1
+164,BRD-A43849199-001-02-3,Phytotoxin,H-BIOA-003-1
+165,BRD-A43882281-001-06-4,ATP channel activator|potassium channel activator,H-BIOA-003-1
+166,BRD-A43940795-001-03-6,serotonin release inhibitor,H-BIOA-005-1
+167,BRD-A43974575-065-02-8,Monoamine oxidase inhibitor,H-BIOA-006-1
+168,BRD-A43999749-004-02-5,acetylcholine receptor antagonist,H-BIOA-005-1
+169,BRD-A44008656-036-05-0,histamine receptor antagonist,H-BIOA-004-1
+170,BRD-A44133049-001-01-5,Serotonin receptor antagonist,H-BIOA-002-1
+171,BRD-A44863528-001-05-8,CCK receptor antagonist,H-BIOA-003-1
+172,BRD-A44966919-001-04-9,acetylcholine receptor antagonist,H-BIOA-005-1
+173,BRD-A45889380-336-03-4,cytokine production inhibitor|NFkB pathway inhibitor|TP53 activator,H-BIOA-003-1
+174,BRD-A46393198-003-04-2,Immunostimulant,H-BIOA-004-1
+175,BRD-A47494775-003-03-0,Adrenergic receptor agonist,H-BIOA-002-1
+176,BRD-A47513740-001-02-5,protein phosphatase inhibitor,H-BIOA-002-1
+177,BRD-A48237631-001-02-2,DNA alkylating agent|DNA synthesis inhibitor,H-BIOA-006-1
+178,BRD-A48430263-003-02-4,insulin sensitizer|PPAR receptor agonist,H-BIOA-005-1
+179,BRD-A48720949-001-02-4,androgen receptor agonist,H-BIOA-005-1
+180,BRD-A48809242-001-02-9,adenosine receptor agonist,H-BIOA-004-1
+181,BRD-A49046702-001-01-2,GABA uptake inhibitor,H-BIOA-003-1
+182,BRD-A49172652-001-05-7,ATPase inhibitor,H-BIOA-004-1
+183,BRD-A49358627-001-03-9,PPAR receptor agonist,H-BIOA-004-1
+184,BRD-A49734948-001-03-3,Plant alkaloid,H-BIOA-003-1
+185,BRD-A49765801-001-02-5,glucocorticoid receptor agonist,H-BIOA-006-1
+186,BRD-A49906757-004-03-1,Acetylcholine receptor antagonist,H-BIOA-003-1
+187,BRD-A50157456-065-02-4,adrenergic receptor agonist,H-BIOA-005-1
+188,BRD-A50311610-300-05-4,CAR agonist,H-BIOA-004-1
+189,BRD-A50675702-001-03-0,chloride channel blocker|GABA gated chloride channel blocker,H-BIOA-004-1
+190,BRD-A50684349-001-01-5,dopamine receptor agonist,H-BIOA-003-1
+191,BRD-A50764878-001-01-4,serotonin receptor antagonist,H-BIOA-002-1
+192,BRD-A51714012-001-02-3,adrenergic inhibitor|norepinephrine reuptake inhibitor|serotonin reuptake inhibitor,H-BIOA-005-1
+193,BRD-A51714012-003-01-1,adrenergic inhibitor|norepinephrine reuptake inhibitor|serotonin reuptake inhibitor,H-BIOA-002-1
+194,BRD-A51820102-008-05-7,lanosterol demethylase inhibitor|sterol demethylase inhibitor,H-BIOA-003-1
+195,BRD-A51829654-001-01-4,Serotonin receptor antagonist,H-BIOA-003-1
+196,BRD-A52922642-001-02-9,L-type calcium channel blocker,H-BIOA-004-1
+197,BRD-A53176877-001-02-7,glucocorticoid receptor agonist,H-BIOA-005-1
+198,BRD-A53952395-003-05-3,local anesthetic,H-BIOA-003-1
+199,BRD-A54236247-003-02-7,Adrenergic receptor agonist,H-BIOA-006-1
+200,BRD-A54490543-066-03-6,monoamine oxidase inhibitor,H-BIOA-004-1
+201,BRD-A55272860-001-04-7,dopamine receptor antagonist,H-BIOA-003-1
+202,BRD-A55393291-001-02-4,androgen receptor agonist,H-BIOA-006-1
+203,BRD-A55579717-001-02-4,acetylcholine receptor agonist,H-BIOA-006-1
+204,BRD-A55756846-001-05-5,PKA inhibitor,H-BIOA-002-1
+205,BRD-A55946879-001-02-9,Lipoxygenase inhibitor,H-BIOA-003-1
+206,BRD-A55962179-001-04-9,ATPase inhibitor,H-BIOA-004-1
+207,BRD-A56020723-001-02-0,cathepsin inhibitor|antiamyloidogenic agent,H-BIOA-002-1
+208,BRD-A56675431-001-04-0,diuretic,H-BIOA-004-1
+209,BRD-A58048407-001-06-3,calcium channel blocker,H-BIOA-003-1
+210,BRD-A59174698-003-02-9,adrenergic receptor agonist,H-BIOA-006-1
+211,BRD-A59215453-003-03-3,Acetylcholine receptor antagonist,H-BIOA-002-1
+212,BRD-A59303141-001-03-9,Thiazide diuretic,H-BIOA-004-1
+213,BRD-A61154809-001-04-3,ATP channel blocker|insulin secretagogue,H-BIOA-002-1
+214,BRD-A61221616-001-02-7,progesterone receptor agonist,H-BIOA-005-1
+215,BRD-A61793559-001-05-7,carbonic anhydrase inhibitor,H-BIOA-002-1
+216,BRD-A62071884-001-03-8,phosphodiesterase inhibitor,H-BIOA-002-1
+217,BRD-A62428732-096-02-6,antihistamine,H-BIOA-005-1
+218,BRD-A62428732-300-03-0,antihistamine,H-BIOA-002-1
+219,BRD-A62525898-001-02-9,glucocorticoid receptor agonist,H-BIOA-006-1
+220,BRD-A63894585-001-03-4,glucocorticoid receptor agonist,H-BIOA-003-1
+221,BRD-A64092382-003-04-3,Sodium channel blocker,H-BIOA-003-1
+222,BRD-A64485570-001-03-7,DNA directed DNA polymerase inhibitor|thymidylate synthase inhibitor,H-BIOA-004-1
+223,BRD-A64553394-001-02-8,sodium channel activator,H-BIOA-003-1
+224,BRD-A65013509-003-03-8,acetylcholine receptor antagonist,H-BIOA-003-1
+225,BRD-A65051990-001-03-8,vitamin K antagonist,H-BIOA-002-1
+226,BRD-A65076780-001-02-1,adrenergic receptor antagonist|prolactin inhibitor,H-BIOA-003-1
+227,BRD-A65280694-003-03-8,dopamine receptor antagonist,H-BIOA-004-1
+228,BRD-A65440446-001-02-5,Adrenergic receptor agonist,H-BIOA-004-1
+229,BRD-A65449987-001-02-1,Cytochrome P450 inhibitor,H-BIOA-006-1
+230,BRD-A65671304-001-02-6,angiotensin receptor antagonist,H-BIOA-005-1
+231,BRD-A65767837-001-02-8,glucocorticoid receptor agonist,H-BIOA-005-1
+232,BRD-A66025870-237-05-1,bacterial cell wall synthesis inhibitor,H-BIOA-003-1
+233,BRD-A66199457-001-02-2,antineoplastic,H-BIOA-004-1
+234,BRD-A67479912-001-02-6,progesterone receptor agonist,H-BIOA-005-1
+235,BRD-A67862938-034-05-7,adrenergic receptor antagonist,H-BIOA-004-1
+236,BRD-A68039575-001-02-5,Aromatase inhibitor,H-BIOA-006-1
+237,BRD-A68281735-001-03-8,leukotriene receptor antagonist|lipoxygenase inhibitor,H-BIOA-002-1
+238,BRD-A68723818-050-05-1,Histamine receptor antagonist,H-BIOA-004-1
+239,BRD-A68930007-001-02-3,ATPase inhibitor,H-BIOA-006-1
+240,BRD-A69636825-003-02-1,calcium channel blocker,H-BIOA-006-1
+241,BRD-A69777949-001-05-1,topoisomerase inhibitor,H-BIOA-003-1
+242,BRD-A69786436-003-02-5,acetylcholine receptor antagonist,H-BIOA-005-1
+243,BRD-A69815203-001-04-3,calcineurin inhibitor,H-BIOA-002-1
+244,BRD-A70083328-001-02-9,acetylcholinesterase inhibitor|microtubule inhibitor,H-BIOA-005-1
+245,BRD-A70514680-003-03-9,Local anesthetic,H-BIOA-004-1
+246,BRD-A71157293-003-03-5,Vitamin B,H-BIOA-004-1
+247,BRD-A71774530-001-01-8,chitin inhibitor,H-BIOA-005-1
+248,BRD-A71816415-236-02-7,HMGCR inhibitor,H-BIOA-005-1
+249,BRD-A72483914-001-01-1,Serotonin receptor antagonist,H-BIOA-003-1
+250,BRD-A72703248-001-02-7,calcium channel blocker|cytochrome P450 inhibitor,H-BIOA-003-1
+251,BRD-A72988804-001-03-8,Cyclooxygenase inhibitor,H-BIOA-004-1
+252,BRD-A73368467-003-02-8,histamine receptor antagonist,H-BIOA-005-1
+253,BRD-A73581086-001-01-3,Adrenergic receptor agonist,H-BIOA-004-1
+254,BRD-A74667430-001-05-3,cyclooxygenase inhibitor,H-BIOA-003-1
+255,BRD-A74904029-001-04-0,Casein kinase inhibitor,H-BIOA-002-1
+256,BRD-A74980173-001-02-8,bacterial DNA gyrase inhibitor,H-BIOA-005-1
+257,BRD-A75172220-001-02-4,glucocorticoid receptor agonist,H-BIOA-005-1
+258,BRD-A75552914-001-05-1,cyclooxygenase inhibitor,H-BIOA-004-1
+259,BRD-A75726477-003-04-9,adrenergic receptor agonist,H-BIOA-004-1
+260,BRD-A75817871-001-02-6,ATPase inhibitor,H-BIOA-002-1
+261,BRD-A75850590-003-05-6,bacterial DNA gyrase inhibitor,H-BIOA-003-1
+262,BRD-A77291778-003-05-5,acetylcholine receptor antagonist,H-BIOA-004-1
+263,BRD-A78295502-337-03-5,anti-arrhythmia agent,H-BIOA-002-1
+264,BRD-A78303415-001-02-7,acetylcholine receptor antagonist,H-BIOA-005-1
+265,BRD-A78322124-003-03-3,Adrenergic receptor agonist,H-BIOA-004-1
+266,BRD-A78877355-003-03-6,cyclooxygenase inhibitor,H-BIOA-003-1
+267,BRD-A79226577-003-01-1,serotonin receptor antagonist|polarization inhibitor|sodium channel blocker,H-BIOA-004-1
+268,BRD-A79672927-001-05-8,Acetylcholine receptor antagonist,H-BIOA-003-1
+269,BRD-A79981887-003-05-7,adrenergic receptor agonist,H-BIOA-003-1
+270,BRD-A80017228-001-05-9,sodium/potassium/chloride transporter inhibitor,H-BIOA-003-1
+271,BRD-A80151636-066-02-2,dopamine receptor agonist,H-BIOA-005-1
+272,BRD-A80594172-001-02-0,glucocorticoid receptor agonist,H-BIOA-005-1
+273,BRD-A80871782-004-01-0,trace amine associated receptor agonist,H-BIOA-005-1
+274,BRD-A81177136-001-04-4,calcium/calmodulin dependent protein kinase inhibitor|purinergic receptor antagonist,H-BIOA-003-1
+275,BRD-A82396632-001-03-0,bacterial cell wall synthesis inhibitor,H-BIOA-004-1
+276,BRD-A82396632-008-02-7,bacterial cell wall synthesis inhibitor,H-BIOA-005-1
+277,BRD-A83177971-001-02-4,HMGCR inhibitor,H-BIOA-005-1
+278,BRD-A83937277-001-03-0,Hydantoin antiepileptic,H-BIOA-004-1
+279,BRD-A84174393-001-02-0,cyclooxygenase inhibitor,H-BIOA-005-1
+280,BRD-A84174873-001-05-2,benzodiazepine receptor agonist,H-BIOA-003-1
+281,BRD-A84389633-001-01-6,serotonin receptor antagonist,H-BIOA-002-1
+282,BRD-A84493640-001-03-3,Mitochondrial electron transport inhibitor,H-BIOA-002-1
+283,BRD-A85587465-001-01-7,Serotonin receptor antagonist,H-BIOA-002-1
+284,BRD-A87719232-001-02-4,Cyclooxygenase inhibitor,H-BIOA-004-1
+285,BRD-A88254928-001-04-6,adrenergic receptor agonist,H-BIOA-003-1
+286,BRD-A88548664-001-02-3,dopamine receptor agonist,H-BIOA-004-1
+287,BRD-A89585551-003-03-4,adenosine receptor antagonist|hemoglobin antagonist,H-BIOA-002-1
+288,BRD-A89672324-001-01-4,GABA receptor antagonist,H-BIOA-004-1
+289,BRD-A90131694-001-01-0,Glucocorticoid receptor agonist,H-BIOA-006-1
+290,BRD-A90515964-001-05-8,expectorant,H-BIOA-003-1
+291,BRD-A90799790-001-03-3,calcium channel blocker,H-BIOA-004-1
+292,BRD-A91452556-001-02-4,estrogen receptor agonist,H-BIOA-005-1
+293,BRD-A92439610-001-02-4,Glucocorticoid receptor agonist,H-BIOA-006-1
+294,BRD-A92537424-001-02-1,estrogen receptor antagonist|progesterone receptor agonist,H-BIOA-005-1
+295,BRD-A92651262-003-02-1,opioid receptor agonist,H-BIOA-005-1
+296,BRD-A92670106-003-03-9,sodium channel blocker,H-BIOA-004-1
+297,BRD-A92826379-009-02-6,sodium channel blocker,H-BIOA-005-1
+298,BRD-A93000692-001-02-4,PPAR receptor agonist,H-BIOA-004-1
+299,BRD-A93236127-001-02-9,ATPase inhibitor,H-BIOA-005-1
+300,BRD-A93353767-001-03-5,fungal lanosterol demethylase inhibitor,H-BIOA-002-1
+301,BRD-A93424738-001-02-2,glucocorticoid receptor agonist,H-BIOA-005-1
+302,BRD-A94543220-001-02-3,sterol demethylase inhibitor,H-BIOA-005-1
+303,BRD-A94624445-236-02-2,adenosine receptor agonist|cAMP stimulant,H-BIOA-002-1
+304,BRD-A94669766-001-04-2,Aromatase inhibitor,H-BIOA-004-1
+305,BRD-A94709349-001-02-6,muscle relaxant,H-BIOA-005-1
+306,BRD-A94756469-001-02-1,ATPase inhibitor,H-BIOA-005-1
+307,BRD-A95096829-300-01-4,dopamine receptor antagonist,H-BIOA-003-1
+308,BRD-A95207036-001-02-8,androgen receptor antagonist,H-BIOA-005-1
+309,BRD-A95445494-001-03-7,interleukin synthesis inhibitor|sodium/glucose cotransporter inhibitor,H-BIOA-006-1
+310,BRD-A95513702-001-02-2,aromatase inhibitor,H-BIOA-005-1
+311,BRD-A95869247-001-04-6,thiazide diuretic,H-BIOA-003-1
+312,BRD-A95939040-008-03-3,sterol demethylase inhibitor,H-BIOA-004-1
+313,BRD-A96485169-001-02-8,aldose reductase inhibitor,H-BIOA-005-1
+314,BRD-A96897502-001-02-0,lipid peroxidase inhibitor,H-BIOA-003-1
+315,BRD-A97104540-004-04-4,adrenergic receptor agonist,H-BIOA-003-1
+316,BRD-A97437073-001-02-3,insulin sensitizer|PPAR receptor agonist,H-BIOA-005-1
+317,BRD-A97479839-003-05-9,acetylcholine receptor antagonist,H-BIOA-004-1
+318,BRD-A97674275-001-01-9,sodium channel blocker,H-BIOA-005-1
+319,BRD-A97701745-001-05-3,adrenergic receptor antagonist|serotonin receptor antagonist,H-BIOA-004-1
+320,BRD-A97730597-003-03-2,sodium channel blocker,H-BIOA-003-1
+321,BRD-A97739905-001-05-9,cyclooxygenase inhibitor,H-BIOA-003-1
+322,BRD-A98299281-050-04-7,calcium channel activator,H-BIOA-004-1
+323,BRD-A99177642-001-02-5,acetylcholine receptor antagonist,H-BIOA-003-1
+324,BRD-A99402294-236-02-0,bacterial cell wall synthesis inhibitor,H-BIOA-006-1
+325,BRD-A99571536-001-04-4,anti-epileptic,H-BIOA-004-1
+326,BRD-K00141480-001-03-0,anti-inflammatory agent|interleukin inhibitor,H-BIOA-003-1
+327,BRD-K00184207-001-02-4,aryl hydrocarbon receptor ligand,H-BIOA-004-1
+328,BRD-K00259736-001-06-5,microtubule inhibitor,H-BIOA-004-1
+329,BRD-K00603606-003-03-4,purinergic receptor antagonist|platelet aggregation inhibitor,H-BIOA-002-1
+330,BRD-K00662280-001-01-1,GABA receptor agonist,H-BIOA-003-1
+331,BRD-K00673382-001-05-6,histamine receptor antagonist,H-BIOA-002-1
+332,BRD-K00824317-001-03-0,glucocorticoid receptor agonist,H-BIOA-002-1
+333,BRD-K01095011-001-03-5,5 alpha reductase inhibitor,H-BIOA-003-1
+334,BRD-K01244426-236-05-5,bacterial cell wall synthesis inhibitor,H-BIOA-002-1
+335,BRD-K01292756-001-06-0,dopamine receptor antagonist,H-BIOA-003-1
+336,BRD-K01555864-001-02-8,antineoplastic,H-BIOA-005-1
+337,BRD-K01624546-001-02-8,LTB4 inhibitor,H-BIOA-002-1
+338,BRD-K01648091-001-01-8,Dopamine receptor antagonist,H-BIOA-004-1
+339,BRD-K01663662-003-03-8,muscarinic antagonist,H-BIOA-003-1
+340,BRD-K01815685-001-02-3,"aryl hydrocarbon receptor agonist|indoleamine 2,3-dioxygenase inhibitor",H-BIOA-005-1
+341,BRD-K01824921-001-02-9,adenosine receptor antagonist,H-BIOA-006-1
+342,BRD-K01868942-001-01-3,serotonin receptor antagonist,H-BIOA-002-1
+343,BRD-K01902415-001-02-6,PPAR receptor agonist,H-BIOA-002-1
+344,BRD-K02265150-001-05-9,norepinephrine reputake inhibitor,H-BIOA-002-1
+345,BRD-K02275692-003-03-4,bacterial cell wall synthesis inhibitor,H-BIOA-004-1
+346,BRD-K02292852-335-03-1,bacterial cell wall synthesis inhibitor,H-BIOA-003-1
+347,BRD-K02404261-001-03-5,adenosine receptor antagonist|phosphodiesterase inhibitor,H-BIOA-005-1
+348,BRD-K02407574-001-03-0,tubulin polymerization inhibitor,H-BIOA-004-1
+349,BRD-K02607075-333-03-6,Acetylcholine receptor antagonist,H-BIOA-002-1
+350,BRD-K02637541-001-02-4,cyclooxygenase inhibitor,H-BIOA-005-1
+351,BRD-K02715688-003-03-5,Tyrosine hydroxylase inhibitor,H-BIOA-002-1
+352,BRD-K02764365-001-03-7,anthelmintic agent,H-BIOA-004-1
+353,BRD-K02867583-300-05-5,serotonin reuptake inhibitor,H-BIOA-002-1
+354,BRD-K02953697-002-03-3,cytochrome P450 inhibitor,H-BIOA-004-1
+355,BRD-K03067624-300-02-9,protein synthesis inhibitor,H-BIOA-002-1
+356,BRD-K03319035-003-02-7,Norepinephrine reuptake inhibitor,H-BIOA-004-1
+357,BRD-K03842655-001-02-1,potassium channel blocker,H-BIOA-003-1
+358,BRD-K03981224-001-02-9,Progestogen hormone,H-BIOA-003-1
+359,BRD-K04010869-001-02-6,HSP inducer|NFKB pathway inhibitor,H-BIOA-002-1
+360,BRD-K04111260-001-01-9,dopamine receptor antagonist,H-BIOA-004-1
+361,BRD-K04185004-003-03-6,local anesthetic,H-BIOA-002-1
+362,BRD-K04430056-001-02-9,nitric oxide synthase inhibitor,H-BIOA-005-1
+363,BRD-K04704168-003-03-6,HCV inhibitor,H-BIOA-004-1
+364,BRD-K04804440-311-02-3,bacterial DNA gyrase inhibitor,H-BIOA-002-1
+365,BRD-K04877770-001-03-4,Farnesyltransferase inhibitor,H-BIOA-003-1
+366,BRD-K05181463-001-01-6,Dopamine receptor antagonist,H-BIOA-004-1
+367,BRD-K05236810-001-05-9,glucosidase inhibitor,H-BIOA-004-1
+368,BRD-K05395900-322-02-1,acetylcholine receptor agonist,H-BIOA-006-1
+369,BRD-K05434375-001-04-0,calcium channel blocker,H-BIOA-002-1
+370,BRD-K05528470-001-01-9,Dopamine receptor antagonist,H-BIOA-003-1
+371,BRD-K05653692-001-02-5,Glucosyltransferase inhibitor,H-BIOA-002-1
+372,BRD-K05673000-323-02-8,bacterial cell wall synthesis inhibitor,H-BIOA-004-1
+373,BRD-K05901394-001-01-1,Dopamine receptor agonist,H-BIOA-004-1
+374,BRD-K05977355-001-02-6,sterol demethylase inhibitor,H-BIOA-006-1
+375,BRD-K06147391-003-01-9,Acetylcholine receptor antagonist,H-BIOA-006-1
+376,BRD-K06147391-300-03-5,Acetylcholine receptor antagonist,H-BIOA-003-1
+377,BRD-K06181161-048-04-5,acetylcholine receptor antagonist,H-BIOA-004-1
+378,BRD-K06208435-001-02-9,Calcium channel blocker,H-BIOA-003-1
+379,BRD-K06543683-001-04-4,PKC inhibitor|glycogen synthase kinase inhibitor|leucine rich repeat kinase inhibitor|SIRT inhibitor,H-BIOA-002-1
+380,BRD-K06854232-001-02-5,retinoid receptor agonist,H-BIOA-004-1
+381,BRD-K06902185-001-05-2,KATP activator|Kir6 channel (KATP) activator|vasodilator,H-BIOA-004-1
+382,BRD-K07208025-001-06-5,dihydrofolate reductase inhibitor,H-BIOA-003-1
+383,BRD-K07220430-001-03-6,calcium channel blocker,H-BIOA-003-1
+384,BRD-K07572174-001-02-2,cyclooxygenase inhibitor|histone acetyltransferase inhibitor|lipoxygenase inhibitor|NFkB pathway inhibitor,H-BIOA-006-1
+385,BRD-K07753030-003-01-0,polarization inhibitor,H-BIOA-006-1
+386,BRD-K07996107-001-03-3,Acetylcholinesterase inhibitor,H-BIOA-004-1
+387,BRD-K08033334-003-02-7,bacterial 30S ribosomal subunit inhibitor,H-BIOA-005-1
+388,BRD-K08078237-001-07-3,calcium channel blocker,H-BIOA-004-1
+389,BRD-K08109516-001-01-1,glutamate receptor antagonist,H-BIOA-002-1
+390,BRD-K08252256-236-05-6,cyclooxygenase inhibitor,H-BIOA-002-1
+391,BRD-K08273968-001-05-9,tubulin polymerization inhibitor,H-BIOA-004-1
+392,BRD-K08303368-001-02-7,acetylcholinesterase inhibitor,H-BIOA-005-1
+393,BRD-K08554278-001-02-4,DNA binding agent,H-BIOA-003-1
+394,BRD-K08556791-001-02-7,Acetylcholinesterase inhibitor,H-BIOA-006-1
+395,BRD-K08619574-334-03-9,dopamine receptor antagonist,H-BIOA-005-1
+396,BRD-K08832567-001-02-4,aromatase inhibitor|TRPV antagonist,H-BIOA-006-1
+397,BRD-K08973992-001-03-9,Oxidative stress inducer,H-BIOA-002-1
+398,BRD-K09397065-001-01-6,serotonin receptor agonist,H-BIOA-002-1
+399,BRD-K09416995-001-06-8,HMGCR inhibitor,H-BIOA-003-1
+400,BRD-K09497549-001-03-6,calcium channel modulator|mTOR inhibitor|sodium channel blocker,H-BIOA-003-1
+401,BRD-K09635134-001-02-4,negative control for D-erythro-MAPP,H-BIOA-002-1
+402,BRD-K09668667-001-02-0,Carcinogen,H-BIOA-006-1
+403,BRD-K09778810-001-01-5,inositol monophosphatase inhibitor,H-BIOA-003-1
+404,BRD-K09859624-004-03-9,acetylcholine receptor antagonist,H-BIOA-005-1
+405,BRD-K09963420-066-03-4,HIV protease inhibitor,H-BIOA-004-1
+406,BRD-K10042277-001-02-7,cetylcholine receptor agonist|dopamine receptor agonist|dopamine receptor antagonist|dopamine receptor partial agonist|serotonin receptor antagonist|serotonin receptor inverse agonist,H-BIOA-003-1
+407,BRD-K10065684-001-03-3,laxative,H-BIOA-006-1
+408,BRD-K10176267-001-01-7,glutamate receptor antagonist,H-BIOA-002-1
+409,BRD-K10314788-003-04-4,nootropic agent,H-BIOA-003-1
+410,BRD-K10670311-001-06-4,antirheumatic drug|NFkB pathway inhibitor,H-BIOA-002-1
+411,BRD-K10671814-001-05-6,dihydropteroate synthetase inhibitor,H-BIOA-004-1
+412,BRD-K10870738-001-02-4,lipoxygenase inhibitor,H-BIOA-003-1
+413,BRD-K10995081-001-05-5,dopamine receptor antagonist,H-BIOA-005-1
+414,BRD-K11129031-001-05-1,lipoprotein lipase activator,H-BIOA-003-1
+415,BRD-K11196887-001-05-5,bacterial DNA gyrase inhibitor,H-BIOA-003-1
+416,BRD-K11399644-003-03-0,AMPK activator,H-BIOA-002-1
+417,BRD-K11640013-001-02-6,PABA antagonist,H-BIOA-005-1
+418,BRD-K11717138-001-03-0,chloride channel blocker,H-BIOA-004-1
+419,BRD-K11742128-003-05-1,histamine receptor antagonist,H-BIOA-003-1
+420,BRD-K11756522-001-03-2,bacterial DNA inhibitor,H-BIOA-005-1
+421,BRD-K12102668-001-04-0,monoamine oxidase inhibitor,H-BIOA-005-1
+422,BRD-K12219985-001-04-8,sulfonylurea,H-BIOA-002-1
+423,BRD-K12260308-001-02-6,Antifungal,H-BIOA-006-1
+424,BRD-K12513978-001-05-0,cyclooxygenase inhibitor,H-BIOA-003-1
+425,BRD-K12568846-001-04-7,analgesic agent,H-BIOA-004-1
+426,BRD-K12906962-001-02-1,Sodium/calcium exchange inhibitor,H-BIOA-004-1
+427,BRD-K12994359-001-02-8,cyclooxygenase inhibitor,H-BIOA-005-1
+428,BRD-K13211965-001-01-4,dopamine receptor antagonist,H-BIOA-003-1
+429,BRD-K13261168-001-01-4,Dopamine receptor agonist,H-BIOA-003-1
+430,BRD-K13533483-001-03-0,calcineurin inhibitor|cyclophilin inhibitor|immunosuppressant|insulin expression inhibitor|T cell inhibitor,H-BIOA-004-1
+431,BRD-K13544237-001-01-0,dopamine receptor agonist|antiamyloidogenic agent,H-BIOA-003-1
+432,BRD-K13819402-003-02-9,acetylcholinesterase inhibitor|monoamine oxidase inhibitor,H-BIOA-006-1
+433,BRD-K13926615-003-01-7,phosphodiesterase inhibitor,H-BIOA-006-1
+434,BRD-K13994703-003-04-2,adrenergic receptor antagonist,H-BIOA-004-1
+435,BRD-K14204120-003-02-4,histamine receptor antagonist,H-BIOA-005-1
+436,BRD-K14282469-001-01-5,serotonin receptor antagonist,H-BIOA-003-1
+437,BRD-K14496212-001-01-1,dopamine receptor agonist,H-BIOA-004-1
+438,BRD-K14536225-001-02-7,Glucosidase inhibitor,H-BIOA-006-1
+439,BRD-K14704277-001-05-1,topoisomerase inhibitor,H-BIOA-003-1
+440,BRD-K14705039-001-05-7,dihydropteroate synthase inhibitor,H-BIOA-004-1
+441,BRD-K14796088-003-06-0,LDL receptor activator,H-BIOA-002-1
+442,BRD-K14821540-001-02-1,mitochondrial oxidative phosphorylation uncoupler,H-BIOA-002-1
+443,BRD-K14888893-001-02-3,KATP activator,H-BIOA-004-1
+444,BRD-K15025317-001-04-5,NFkB pathway inhibitor,H-BIOA-002-1
+445,BRD-K15519488-001-01-6,dopamine receptor agonist,H-BIOA-003-1
+446,BRD-K15563106-001-02-4,sodium/glucose cotransporter inhibitor,H-BIOA-005-1
+447,BRD-K15567136-003-06-6,phosphodiesterase inhibitor,H-BIOA-002-1
+448,BRD-K15715913-001-01-5,dopamine receptor antagonist|serotonin receptor antagonist,H-BIOA-002-1
+449,BRD-K15868788-001-01-4,Serotonin receptor antagonist,H-BIOA-002-1
+450,BRD-K15933101-003-01-2,dopamine receptor agonist|dopamine receptor modulator,H-BIOA-003-1
+451,BRD-K16195444-001-01-7,adrenergic receptor agonist,H-BIOA-002-1
+452,BRD-K16474819-001-02-1,analgesic agent,H-BIOA-005-1
+453,BRD-K16508793-001-01-8,benzodiazepine receptor agonist,H-BIOA-006-1
+454,BRD-K16542329-001-05-1,phosphodiesterase inhibitor,H-BIOA-002-1
+455,BRD-K16551401-003-01-8,serotonin receptor agonist,H-BIOA-003-1
+456,BRD-K16604360-001-01-8,antiamyloidogenic agent|dopamine receptor agonist,H-BIOA-003-1
+457,BRD-K17016787-001-03-5,estrogen receptor agonist,H-BIOA-005-1
+458,BRD-K17294426-050-05-7,dopamine receptor antagonist,H-BIOA-004-1
+459,BRD-K17378184-300-03-4,dopamine receptor agonist,H-BIOA-005-1
+460,BRD-K17565903-066-05-8,muscle relaxant,H-BIOA-003-1
+461,BRD-K17674993-001-03-1,Corticosteroid agonist,H-BIOA-002-1
+462,BRD-K17953061-001-02-8,PKC inhibitor,H-BIOA-003-1
+463,BRD-K18059238-001-02-1,cyclooxygenase inhibitor|prostanoid receptor stimulant|thromboxane synthase stimulant,H-BIOA-002-1
+464,BRD-K18250272-003-03-7,local anesthetic,H-BIOA-004-1
+465,BRD-K18518344-001-03-5,ATPase inhibitor,H-BIOA-004-1
+466,BRD-K18550767-001-02-8,interleukin inhibitor,H-BIOA-006-1
+467,BRD-K18787491-001-04-5,MEK inhibitor,H-BIOA-003-1
+468,BRD-K18910433-001-04-4,estrogen receptor agonist,H-BIOA-003-1
+469,BRD-K18922609-004-04-1,acetylcholinesterase inhibitor,H-BIOA-004-1
+470,BRD-K19111024-001-05-0,PPAR receptor agonist,H-BIOA-003-1
+471,BRD-K19227686-001-02-0,Indicator dye,H-BIOA-006-1
+472,BRD-K19295594-001-06-9,BCL inhibitor|MCL1 inhibitor,H-BIOA-005-1
+473,BRD-K19295594-015-02-8,BCL inhibitor|MCL1 inhibitor,H-BIOA-005-1
+474,BRD-K19309090-300-03-0,acetylcholine receptor agonist,H-BIOA-004-1
+475,BRD-K19352500-070-02-5,dopamine receptor antagonist,H-BIOA-005-1
+476,BRD-K19352500-332-03-7,dopamine receptor antagonist,H-BIOA-005-1
+477,BRD-K19360254-001-01-3,Dopamine receptor agonist,H-BIOA-003-1
+478,BRD-K19416115-001-01-2,dipeptidyl peptidase inhibitor,H-BIOA-006-1
+479,BRD-K19438463-001-01-4,glutamate receptor antagonist,H-BIOA-002-1
+480,BRD-K19462402-003-03-0,adrenergic receptor antagonist|calcium channel blocker,H-BIOA-004-1
+481,BRD-K19554809-001-01-1,serotonin receptor agonist,H-BIOA-002-1
+482,BRD-K20338176-002-03-5,bacterial cell wall synthesis inhibitor,H-BIOA-005-1
+483,BRD-K20620780-001-01-0,dopamine receptor antagonist,H-BIOA-003-1
+484,BRD-K20655524-003-04-7,psychoactive drug,H-BIOA-003-1
+485,BRD-K20714604-001-01-5,Serotonin receptor partial agonist,H-BIOA-002-1
+486,BRD-K20742498-001-01-5,serotonin receptor antagonist,H-BIOA-002-1
+487,BRD-K21283037-001-02-5,glutamate inhibitor,H-BIOA-003-1
+488,BRD-K21283037-003-03-9,glutamate inhibitor,H-BIOA-002-1
+489,BRD-K21350491-001-02-1,acid sensing ion channel blocker|sodium channel blockers|TRPP3 channel inhibitor|TRPV modulator,H-BIOA-004-1
+490,BRD-K21548250-003-03-5,sodium channel blocker,H-BIOA-004-1
+491,BRD-K21565985-001-05-0,adrenergic receptor agonist,H-BIOA-002-1
+492,BRD-K21680192-300-05-2,topoisomerase inhibitor,H-BIOA-004-1
+493,BRD-K21733600-001-02-6,cyclooxygenase inhibitor,H-BIOA-006-1
+494,BRD-K22031190-001-05-3,prostanoid receptor antagonist,H-BIOA-004-1
+495,BRD-K22193694-001-05-2,topical sunscreen agent,H-BIOA-005-1
+496,BRD-K22936972-003-05-3,dopamine uptake inhibitor,H-BIOA-003-1
+497,BRD-K22969690-001-02-6,bacterial 50S ribosomal subunit inhibitor,H-BIOA-005-1
+498,BRD-K23478508-001-03-7,ATPase inhibitor,H-BIOA-004-1
+499,BRD-K23583188-001-05-6,EGFR inhibitor|tyrosine kinase inhibitor,H-BIOA-003-1
+500,BRD-K23704908-001-03-2,serine protease inhibitor,H-BIOA-004-1
+501,BRD-K23913458-001-02-5,Vitamin K antagonist,H-BIOA-006-1
+502,BRD-K24084088-001-02-2,adenosine receptor antagonist,H-BIOA-006-1
+503,BRD-K24132293-001-05-3,glutathione transferase inhibitor,H-BIOA-004-1
+504,BRD-K24396733-001-01-1,dopamine receptor agonist,H-BIOA-003-1
+505,BRD-K24616672-003-05-2,HMGCR inhibitor,H-BIOA-004-1
+506,BRD-K25140590-001-01-4,glutamate receptor modulator,H-BIOA-002-1
+507,BRD-K25224017-001-05-2,serotonin receptor antagonist,H-BIOA-002-1
+508,BRD-K25394294-001-05-7,cyclooxygenase inhibitor,H-BIOA-004-1
+509,BRD-K25650355-059-02-3,cholinesterase inhibitor,H-BIOA-006-1
+510,BRD-K25741894-001-03-8,acetylcholinesterase inhibitor,H-BIOA-005-1
+511,BRD-K26005076-001-03-7,norepinephrine reputake inhibitor,H-BIOA-005-1
+512,BRD-K26548821-001-01-8,Dopamine receptor agonist,H-BIOA-003-1
+513,BRD-K26548821-003-03-0,Dopamine receptor agonist,H-BIOA-004-1
+514,BRD-K26862302-001-02-9,aryl hydrocarbon receptor agonist,H-BIOA-005-1
+515,BRD-K27130738-236-03-4,bacterial cell wall synthesis inhibitor,H-BIOA-005-1
+516,BRD-K27305650-001-05-9,mTOR inhibitor|PI3K inhibitor|DNA dependent protein kinase inhibitor|phosphodiesterase inhibitor|PLK inhibitor,H-BIOA-002-1
+517,BRD-K27316855-001-02-6,vitamin D receptor agonist,H-BIOA-004-1
+518,BRD-K27351809-001-02-0,progesterone receptor agonist,H-BIOA-004-1
+519,BRD-K27450477-001-03-9,Adenosine deaminase inhibitor,H-BIOA-002-1
+520,BRD-K27499107-001-02-6,IP receptor activator,H-BIOA-004-1
+521,BRD-K27710560-001-02-6,SIRT inhibitor,H-BIOA-003-1
+522,BRD-K27721098-065-02-9,purinergic receptor antagonist,H-BIOA-005-1
+523,BRD-K27737647-001-04-2,PKA inhibitor,H-BIOA-002-1
+524,BRD-K28143534-001-01-4,histamine receptor antagonist,H-BIOA-002-1
+525,BRD-K28143534-003-03-6,histamine receptor antagonist,H-BIOA-004-1
+526,BRD-K28183345-003-05-6,dihydrofolate reductase inhibitor,H-BIOA-004-1
+527,BRD-K28307902-001-05-0,androgen receptor antagonist,H-BIOA-002-1
+528,BRD-K28453807-003-03-9,Cholinergic receptor antagonist,H-BIOA-004-1
+529,BRD-K28542495-003-03-6,prostanoid receptor antagonist,H-BIOA-003-1
+530,BRD-K28667196-001-02-9,Increases arterial blood pressure,H-BIOA-003-1
+531,BRD-K28680267-001-01-8,CCK receptor antagonist,H-BIOA-003-1
+532,BRD-K28761891-001-01-0,melatonin receptor agonist,H-BIOA-006-1
+533,BRD-K28806945-001-01-9,dopamine receptor antagonist,H-BIOA-003-1
+534,BRD-K28936863-051-05-8,histamine receptor agonist|leukotriene receptor antagonist|phosphodiesterase inhibitor,H-BIOA-004-1
+535,BRD-K29113274-001-03-6,sterol demethylase inhibitor,H-BIOA-005-1
+536,BRD-K29133151-001-02-4,thromboxane receptor antagonist,H-BIOA-006-1
+537,BRD-K29359156-001-06-1,cyclooxygenase inhibitor|glutathione peroxidase agonist|H+/K+-ATPase inhibitor|nitric oxide synthase inhibitor,H-BIOA-002-1
+538,BRD-K29458283-001-05-9,DNA inhibitor,H-BIOA-004-1
+539,BRD-K29582677-001-02-7,Calcium channel blocker,H-BIOA-002-1
+540,BRD-K29582677-300-05-6,Calcium channel blocker,H-BIOA-003-1
+541,BRD-K29950728-048-02-6,estrogen receptor antagonist,H-BIOA-006-1
+542,BRD-K30197592-001-01-5,Serotonin receptor agonist,H-BIOA-002-1
+543,BRD-K30240666-051-05-0,histamine receptor antagonist,H-BIOA-003-1
+544,BRD-K30296925-001-02-1,Antineoplastic,H-BIOA-006-1
+545,BRD-K30421593-050-02-3,adrenergic receptor antagonist,H-BIOA-006-1
+546,BRD-K30480208-001-05-2,electrolyte reabsorption inhibitor|thromboxane receptor antagonist,H-BIOA-004-1
+547,BRD-K30685142-001-05-5,thyroid hormone stimulant,H-BIOA-004-1
+548,BRD-K30867024-001-01-1,serotonin receptor antagonist,H-BIOA-003-1
+549,BRD-K31342827-001-05-4,PKC inhibitor,H-BIOA-003-1
+550,BRD-K31491153-003-02-6,serotonin receptor agonist,H-BIOA-006-1
+551,BRD-K31611373-001-02-7,Prostanoid receptor agonist,H-BIOA-002-1
+552,BRD-K31627533-001-03-8,glucocorticoid receptor agonist,H-BIOA-004-1
+553,BRD-K32164935-001-06-8,ATP channel blocker,H-BIOA-003-1
+554,BRD-K32247306-001-05-4,GABA receptor antagonist,H-BIOA-003-1
+555,BRD-K32501161-001-01-7,dopamine uptake inhibitor,H-BIOA-003-1
+556,BRD-K32501161-300-03-9,dopamine uptake inhibitor,H-BIOA-004-1
+557,BRD-K32584078-001-02-3,AKT inhibitor|HCV NS5B RdRp inhibitor,H-BIOA-002-1
+558,BRD-K32744045-001-05-6,aldehyde dehydrogenase inhibitor|DNA methyltransferase inhibitor|TRPV agonist,H-BIOA-002-1
+559,BRD-K32755366-003-03-4,Norepinephrine transporter inhibitor,H-BIOA-004-1
+560,BRD-K32821942-001-05-6,dehydrogenase inhibitor,H-BIOA-002-1
+561,BRD-K32828673-002-03-9,tubulin polymerization inhibitor,H-BIOA-002-1
+562,BRD-K32830106-003-03-0,adrenergic receptor agonist,H-BIOA-004-1
+563,BRD-K33204703-001-04-6,PDGFR receptor inhibitor,H-BIOA-003-1
+564,BRD-K33211335-337-03-7,glutamate receptor antagonist|sigma receptor agonist,H-BIOA-004-1
+565,BRD-K33396764-001-02-0,Omega 3 fatty acid stimulant,H-BIOA-002-1
+566,BRD-K33453211-003-03-2,histamine receptor antagonist,H-BIOA-004-1
+567,BRD-K33583600-001-04-7,guanylate cyclase activator,H-BIOA-006-1
+568,BRD-K33710385-001-05-4,mycolic synthesis inhibitor,H-BIOA-004-1
+569,BRD-K34092021-001-02-3,TRPV agonist|cannabinoid receptor agonist,H-BIOA-004-1
+570,BRD-K34154330-003-03-1,GABA receptor modulator,H-BIOA-004-1
+571,BRD-K34157611-001-04-6,histamine receptor antagonist,H-BIOA-004-1
+572,BRD-K34415467-003-05-6,histamine receptor antagonist,H-BIOA-002-1
+573,BRD-K34685430-001-01-1,dopamine receptor antagonist|serotonin receptor antagonist,H-BIOA-003-1
+574,BRD-K34685430-050-04-2,dopamine receptor antagonist|serotonin receptor antagonist,H-BIOA-005-1
+575,BRD-K34776109-001-03-4,insulin secretagogue,H-BIOA-002-1
+576,BRD-K34820100-001-02-1,Photosynthesis inhibitor,H-BIOA-006-1
+577,BRD-K35189033-001-03-0,estrogen receptor agonist|glucocorticoid receptor antagonist|progesterone receptor agonist|progesterone receptor antagonist,H-BIOA-003-1
+578,BRD-K35240538-001-03-1,glucocorticoid receptor agonist,H-BIOA-003-1
+579,BRD-K35458079-001-04-2,Nootropic agent,H-BIOA-003-1
+580,BRD-K35531059-001-02-4,Guanylyl cyclase activator,H-BIOA-002-1
+581,BRD-K35586044-003-03-0,adrenergic receptor antagonist,H-BIOA-002-1
+582,BRD-K35708212-331-03-1,ATPase inhibitor,H-BIOA-004-1
+583,BRD-K35941380-001-01-7,Serotonin receptor antagonist,H-BIOA-002-1
+584,BRD-K35960502-001-06-9,DNA replication inhibitor|STAT inhibitor,H-BIOA-004-1
+585,BRD-K36007650-300-02-3,protein synthesis inhibitor,H-BIOA-004-1
+586,BRD-K36055864-001-05-1,protein synthesis inhibitor,H-BIOA-003-1
+587,BRD-K36116267-001-05-4,psychoactive drug,H-BIOA-003-1
+588,BRD-K36377456-001-02-0,angiogenesis inhibitor,H-BIOA-005-1
+589,BRD-K36638830-001-02-2,acetylcholine receptor agonist,H-BIOA-003-1
+590,BRD-K36862742-001-05-8,sodium/potassium/chloride transporter inhibitor,H-BIOA-004-1
+591,BRD-K36927236-001-06-0,ATP channel blocker|insulin secretagogue|sulfonylurea,H-BIOA-002-1
+592,BRD-K36965586-001-01-7,serotonin receptor agonist,H-BIOA-002-1
+593,BRD-K37249724-001-05-9,histamine receptor antagonist,H-BIOA-002-1
+594,BRD-K37270826-001-04-5,glucocorticoid receptor antagonist|progesterone receptor antagonist,H-BIOA-005-1
+595,BRD-K37289225-001-09-1,dopamine receptor antagonist|serotonin receptor antagonist,H-BIOA-003-1
+596,BRD-K37447567-004-05-3,Opioid receptor antagonist,H-BIOA-002-1
+597,BRD-K37561857-001-04-9,phosphodiesterase inhibitor,H-BIOA-004-1
+598,BRD-K37682401-001-05-1,bacterial DNA gyrase inhibitor,H-BIOA-003-1
+599,BRD-K37688416-003-05-7,psychoactive drug,H-BIOA-003-1
+600,BRD-K37694030-003-02-8,histamine receptor antagonist,H-BIOA-005-1
+601,BRD-K37798499-001-02-5,topoisomerase inhibitor,H-BIOA-004-1
+602,BRD-K37846922-001-05-2,"CHK inhibitor|cytochrome P450 activator|indoleamine 2,3-dioxygenase inhibitor",H-BIOA-003-1
+603,BRD-K37848908-001-03-1,penicillin binding protein inhibitor,H-BIOA-004-1
+604,BRD-K38003476-001-03-4,steroid,H-BIOA-004-1
+605,BRD-K38055836-001-03-9,respiratory stimulant,H-BIOA-004-1
+606,BRD-K38197229-001-06-7,solute carrier family member inhibitor,H-BIOA-002-1
+607,BRD-K38251852-001-02-5,ABC transporter expression enhancer|high conductance calcium activated potassium blocker|LXR agonist|potassium channel blocker,H-BIOA-003-1
+608,BRD-K38305202-001-02-6,dopamine receptor antagonist,H-BIOA-004-1
+609,BRD-K38323065-001-05-8,cyclooxygenase inhibitor,H-BIOA-002-1
+610,BRD-K38347298-001-02-3,adenosine receptor antagonist,H-BIOA-006-1
+611,BRD-K38436528-003-05-5,norepinephrine reputake inhibitor|serotonin reuptake inhibitor,H-BIOA-005-1
+612,BRD-K38449220-001-03-8,cytochrome P450 inhibitor,H-BIOA-002-1
+613,BRD-K38775274-001-02-3,glucocorticoid receptor agonist,H-BIOA-002-1
+614,BRD-K38903228-001-02-8,flavanone glycoside,H-BIOA-005-1
+615,BRD-K39187410-001-01-7,antiamyloidogenic agent,H-BIOA-004-1
+616,BRD-K39188321-001-03-9,glucocorticoid receptor agonist,H-BIOA-004-1
+617,BRD-K39339537-001-03-8,cyclooxygenase inhibitor,H-BIOA-004-1
+618,BRD-K39356024-001-02-4,acetylcholine release enhancer|dopamine release enhancer|GABA receptor negative allosteric modulator|glutamate receptor modulator|progesterone receptor agonist|steroid hormone inhibitor of CYP17A1 and SULT2B1,H-BIOA-002-1
+619,BRD-K39484304-001-02-5,RNA polymerase inhibitor,H-BIOA-003-1
+620,BRD-K39915878-036-05-3,dopamine receptor antagonist|serotonin receptor antagonist,H-BIOA-002-1
+621,BRD-K39965020-001-02-6,PPAR receptor agonist,H-BIOA-002-1
+622,BRD-K39987650-001-05-0,laxative,H-BIOA-004-1
+623,BRD-K40227168-001-06-1,adrenergic receptor antagonist,H-BIOA-002-1
+624,BRD-K40530731-001-02-5,acetylcholine receptor inhibitor,H-BIOA-003-1
+625,BRD-K40887525-001-02-9,serotonin receptor antagonist,H-BIOA-005-1
+626,BRD-K40901640-001-01-0,serotonin receptor antagonist,H-BIOA-002-1
+627,BRD-K40905133-001-02-3,sodium channel blocker,H-BIOA-006-1
+628,BRD-K40919711-001-02-4,Potassium channel blocker,H-BIOA-003-1
+629,BRD-K40965114-001-01-2,Adrenergic receptor antagonist,H-BIOA-002-1
+630,BRD-K41406082-001-05-5,PABA antagonist,H-BIOA-003-1
+631,BRD-K41707108-001-03-1,Phosphoenolpyruvate carboxylase activator,H-BIOA-004-1
+632,BRD-K41713976-001-02-0,potassium channel blocker,H-BIOA-002-1
+633,BRD-K41876534-001-02-0,carbonic anhydrase inhibitor,H-BIOA-005-1
+634,BRD-K41996876-001-05-5,EGFR inhibitor,H-BIOA-003-1
+635,BRD-K42095107-001-05-6,estrogen receptor agonist,H-BIOA-003-1
+636,BRD-K42142750-001-04-9,Antimitotic,H-BIOA-002-1
+637,BRD-K42221274-001-01-4,GAT inhibitor,H-BIOA-004-1
+638,BRD-K42348709-003-05-7,adrenergic receptor agonist|serotonin receptor agonist,H-BIOA-004-1
+639,BRD-K42352790-001-03-8,cannabinoid receptor agonist,H-BIOA-004-1
+640,BRD-K42596464-048-03-6,antitussive,H-BIOA-005-1
+641,BRD-K42635745-001-02-4,adrenergic receptor antagonist,H-BIOA-004-1
+642,BRD-K43149758-001-04-5,androgen receptor agonist|cytochrome P450 inhibitor,H-BIOA-004-1
+643,BRD-K43245338-001-02-4,calpain inhibitor|cathepsin inhibitor,H-BIOA-004-1
+644,BRD-K43290182-001-01-9,Serotonin receptor antagonist,H-BIOA-002-1
+645,BRD-K43389675-003-02-7,RNA synthesis inhibitor|topoisomerase inhibitor,H-BIOA-004-1
+646,BRD-K43736954-001-03-3,glucocorticoid receptor agonist,H-BIOA-005-1
+647,BRD-K43797669-001-03-1,tyrosine kinase inhibitor,H-BIOA-006-1
+648,BRD-K43860855-065-03-6,antineoplastic agent,H-BIOA-004-1
+649,BRD-K43966364-237-02-2,bacterial cell wall synthesis inhibitor,H-BIOA-005-1
+650,BRD-K44067360-001-06-3,chloride channel blocker,H-BIOA-002-1
+651,BRD-K44273375-001-04-5,fungal squalene epoxidase inhibitor,H-BIOA-002-1
+652,BRD-K44849676-001-03-0,TRPV agonist,H-BIOA-004-1
+653,BRD-K44876623-001-01-1,benzodiazepine receptor agonist,H-BIOA-006-1
+654,BRD-K44899736-003-02-1,Monoamine oxidase inhibitor,H-BIOA-006-1
+655,BRD-K45033733-001-02-3,DNA polymerase inhibitor,H-BIOA-005-1
+656,BRD-K45071273-003-05-8,membrane integrity inhibitor,H-BIOA-002-1
+657,BRD-K45158365-001-02-3,angiotensin receptor antagonist,H-BIOA-006-1
+658,BRD-K45401373-001-05-0,Apoptosis stimulant,H-BIOA-003-1
+659,BRD-K45435259-001-01-6,Dopamine receptor antagonist,H-BIOA-004-1
+660,BRD-K45479396-001-01-8,Serotonin receptor agonist,H-BIOA-003-1
+661,BRD-K45542189-048-05-6,lipoxygenase inhibitor,H-BIOA-003-1
+662,BRD-K45662124-001-01-8,dopamine receptor ligand,H-BIOA-003-1
+663,BRD-K45861246-001-05-0,Dopamine receptor antagonist,H-BIOA-004-1
+664,BRD-K46018455-001-06-0,PPAR receptor agonist,H-BIOA-002-1
+665,BRD-K46068882-001-02-7,Bacterial quorum sensing inhibitor,H-BIOA-006-1
+666,BRD-K46137903-001-03-3,phospholipase activator,H-BIOA-004-1
+667,BRD-K46211610-003-05-1,Adrenergic receptor antagonist,H-BIOA-002-1
+668,BRD-K46317332-003-06-1,nitric oxide synthase inhibitor,H-BIOA-005-1
+669,BRD-K46435977-003-01-2,DNA polymerase inhibitor,H-BIOA-006-1
+670,BRD-K46441700-001-01-8,serotonin receptor antagonist,H-BIOA-003-1
+671,BRD-K46556543-237-03-0,Mineralocorticoid receptor antagonist,H-BIOA-002-1
+672,BRD-K46937689-001-05-1,cyclooxygenase inhibitor,H-BIOA-004-1
+673,BRD-K46982791-001-02-9,potassium channel activator,H-BIOA-005-1
+674,BRD-K47105409-001-05-3,JAK inhibitor,H-BIOA-002-1
+675,BRD-K47192521-001-02-1,Platelet aggregation inhibitor,H-BIOA-002-1
+676,BRD-K47278471-003-05-7,Histamine receptor antagonist,H-BIOA-002-1
+677,BRD-K47323024-003-05-3,Histamine receptor antagonist,H-BIOA-004-1
+678,BRD-K47328134-001-02-0,heparin activation inhibitor,H-BIOA-005-1
+679,BRD-K47598052-001-04-2,src inhibitor,H-BIOA-003-1
+680,BRD-K47608922-001-02-1,chelating agent,H-BIOA-006-1
+681,BRD-K47631482-003-02-1,Mucolytic agent,H-BIOA-006-1
+682,BRD-K47635719-001-03-9,glucocorticoid receptor agonist,H-BIOA-002-1
+683,BRD-K47639036-003-03-3,acetylcholine receptor antagonist,H-BIOA-003-1
+684,BRD-K47693913-001-02-4,Furoquinoline alkaloid,H-BIOA-003-1
+685,BRD-K47869605-001-05-6,microtubule inhibitor|tubulin polymerization inhibitor,H-BIOA-003-1
+686,BRD-K47936004-001-01-9,dopamine receptor agonist,H-BIOA-003-1
+687,BRD-K47936004-003-03-1,dopamine receptor agonist,H-BIOA-004-1
+688,BRD-K48168960-001-05-1,thyroid peroxidase inhibitor,H-BIOA-004-1
+689,BRD-K48722258-300-03-7,adenosine reuptake inhibitor,H-BIOA-003-1
+690,BRD-K49061529-001-01-0,GABA benzodiazepine site receptor inverse agonist,H-BIOA-003-1
+691,BRD-K49071277-001-02-1,GABA receptor antagonist|TP53 activator,H-BIOA-005-1
+692,BRD-K49481516-004-04-3,Acetylcholinesterase inhibitor,H-BIOA-002-1
+693,BRD-K49671696-001-02-1,serotonin receptor antagonist,H-BIOA-002-1
+694,BRD-K49671696-347-02-8,serotonin receptor antagonist,H-BIOA-004-1
+695,BRD-K49685476-001-02-7,retinoid receptor agonist,H-BIOA-002-1
+696,BRD-K49807096-003-02-3,angiotensin converting enzyme inhibitor,H-BIOA-005-1
+697,BRD-K50133271-001-05-4,cyclooxygenase inhibitor|prostanoid receptor antagonist,H-BIOA-003-1
+698,BRD-K50135270-001-01-9,dopamine uptake inhibitor,H-BIOA-003-1
+699,BRD-K50214219-001-02-4,PARP inhibitor,H-BIOA-003-1
+700,BRD-K50388907-001-05-6,PPAR receptor agonist,H-BIOA-003-1
+701,BRD-K50398167-236-02-9,cyclooxygenase inhibitor|prostanoid receptor antagonist,H-BIOA-005-1
+702,BRD-K50398167-323-03-3,cyclooxygenase inhibitor|prostanoid receptor antagonist,H-BIOA-003-1
+703,BRD-K50406511-001-06-2,RNA synthesis inhibitor,H-BIOA-005-1
+704,BRD-K50417881-003-02-6,Dopamine receptor antagonist,H-BIOA-004-1
+705,BRD-K50422030-001-01-2,GABA receptor antagonist|GABA receptor modulator,H-BIOA-003-1
+706,BRD-K50859149-001-05-4,bacterial antifolate,H-BIOA-004-1
+707,BRD-K50891186-001-01-0,dopamine receptor antagonist,H-BIOA-004-1
+708,BRD-K50938287-001-01-7,serotonin receptor agonist,H-BIOA-005-1
+709,BRD-K51318897-001-04-7,tubulin polymerization inhibitor,H-BIOA-003-1
+710,BRD-K51465424-003-03-6,adrenergic receptor agonist,H-BIOA-004-1
+711,BRD-K51671335-001-01-5,Dopamine receptor antagonist,H-BIOA-003-1
+712,BRD-K51751936-001-03-4,benzodiazepine receptor agonist,H-BIOA-004-1
+713,BRD-K52075040-001-02-2,fatty acid synthase inhibitor,H-BIOA-003-1
+714,BRD-K52075715-001-02-6,Tubulin inhibitor,H-BIOA-006-1
+715,BRD-K52397688-001-01-9,dopamine receptor antagonist|FAAH inhibitor|serotonin receptor antagonist,H-BIOA-002-1
+716,BRD-K52662033-001-02-6,histamine receptor agonist,H-BIOA-002-1
+717,BRD-K52662033-003-05-5,histamine receptor agonist,H-BIOA-002-1
+718,BRD-K52721684-001-02-2,potassium channel activator,H-BIOA-004-1
+719,BRD-K52989797-001-01-1,serotonin transporter (SERT) inhibitor,H-BIOA-003-1
+720,BRD-K52989797-003-05-8,serotonin transporter (SERT) inhibitor,H-BIOA-005-1
+721,BRD-K53061490-003-03-0,thromboxane synthase inhibitor,H-BIOA-004-1
+722,BRD-K53123955-001-03-0,Phosphofructokinase inhibitor,H-BIOA-004-1
+723,BRD-K53318339-001-05-8,phosphodiesterase inhibitor|sodium channel blocker,H-BIOA-003-1
+724,BRD-K53517854-050-03-2,selective serotonin reuptake inhibitor (SSRI),H-BIOA-004-1
+725,BRD-K53737926-003-05-4,norepinephrine inhibitor|norepinephrine reuptake inhibitor|serotonin receptor antagonist|serotonin reuptake inhibitor,H-BIOA-002-1
+726,BRD-K53857191-001-04-5,dopamine receptor antagonist|serotonin receptor antagonist,H-BIOA-003-1
+727,BRD-K54094468-001-01-6,dopamine receptor antagonist,H-BIOA-003-1
+728,BRD-K54094468-003-03-8,dopamine receptor antagonist,H-BIOA-004-1
+729,BRD-K54142781-001-02-1,Adrenergic receptor agonist,H-BIOA-004-1
+730,BRD-K54210043-001-02-0,calcium channel activator|large conductance potassium channel activator,H-BIOA-003-1
+731,BRD-K54330070-001-05-5,p38 MAPK inhibitor,H-BIOA-003-1
+732,BRD-K54411430-001-02-5,cAMP inhibitor,H-BIOA-006-1
+733,BRD-K54529596-001-04-0,angiotensin converting enzyme inhibitor,H-BIOA-004-1
+734,BRD-K54759182-003-02-3,norepinephrine reuptake inhibitor|serotonin reuptake inhibitor|tricyclic antidepressant,H-BIOA-004-1
+735,BRD-K54771420-001-03-2,Cholesterol inhibitor,H-BIOA-002-1
+736,BRD-K54790157-001-06-4,DNA synthesis inhibitor,H-BIOA-003-1
+737,BRD-K55034111-066-02-3,bacterial DNA gyrase inhibitor,H-BIOA-005-1
+738,BRD-K55044200-001-03-9,Penicillin binding protein inhibitor,H-BIOA-004-1
+739,BRD-K55127134-001-01-7,dopamine receptor antagonist,H-BIOA-004-1
+740,BRD-K55127134-300-05-4,dopamine receptor antagonist,H-BIOA-005-1
+741,BRD-K55191674-236-03-7,penicillin binding protein inhibitor,H-BIOA-004-1
+742,BRD-K55191674-237-02-7,penicillin binding protein inhibitor,H-BIOA-005-1
+743,BRD-K55250441-001-03-1,dihydropteroate synthase inhibitor,H-BIOA-004-1
+744,BRD-K55424922-001-01-4,Serotonin receptor agonist,H-BIOA-002-1
+745,BRD-K55468218-001-05-5,dopamine receptor antagonist,H-BIOA-004-1
+746,BRD-K55529781-236-02-0,thromboxane synthase inhibitor,H-BIOA-006-1
+747,BRD-K55567017-001-02-4,alcohol dehydrogenase inhibitor,H-BIOA-006-1
+748,BRD-K55930204-001-02-7,hydantoin antiepileptic,H-BIOA-003-1
+749,BRD-K56104152-008-02-5,bacterial cell wall synthesis inhibitor,H-BIOA-005-1
+750,BRD-K56558538-003-02-8,sodium channel blocker,H-BIOA-004-1
+751,BRD-K56596464-004-02-4,Sodium channel blocker,H-BIOA-003-1
+752,BRD-K56699285-001-03-7,dopamine receptor agonist|serotonin receptor antagonist,H-BIOA-003-1
+753,BRD-K56800335-015-02-3,adrenergic receptor agonist,H-BIOA-006-1
+754,BRD-K57033106-048-02-8,Histamine receptor antagonist,H-BIOA-006-1
+755,BRD-K57432881-003-05-1,dopamine receptor antagonist,H-BIOA-004-1
+756,BRD-K57546357-001-01-6,Breast cancer resistance protein inhibitor,H-BIOA-006-1
+757,BRD-K57569181-001-05-1,phosphodiesterase inhibitor,H-BIOA-003-1
+758,BRD-K57886322-001-03-4,glucocorticoid receptor agonist,H-BIOA-003-1
+759,BRD-K58220566-001-02-2,PKC inhibitor|sodium channel blocker|calcium channel blocker,H-BIOA-003-1
+760,BRD-K58265391-001-03-6,diuretic,H-BIOA-004-1
+761,BRD-K58466253-003-04-1,serotonin release inhibitor,H-BIOA-002-1
+762,BRD-K58685305-001-03-0,11-beta hydroxysteroid dehydrogenase inhibitor,H-BIOA-005-1
+763,BRD-K58736316-001-07-9,fatty acid synthase inhibitor,H-BIOA-005-1
+764,BRD-K58930050-001-01-1,glutamate receptor antagonist,H-BIOA-002-1
+765,BRD-K58930050-050-03-4,glutamate receptor antagonist,H-BIOA-002-1
+766,BRD-K58938839-001-03-8,smoothened receptor antagonist|hedgehog pathway inhibitor,H-BIOA-003-1
+767,BRD-K59058766-003-04-5,dopamine receptor antagonist,H-BIOA-004-1
+768,BRD-K59197931-001-02-9,cyclooxygenase inhibitor,H-BIOA-005-1
+769,BRD-K59256312-066-03-3,serine protease inhibitor,H-BIOA-005-1
+770,BRD-K59273480-001-01-5,adenosine reuptake inhibitor|phosphodiesterase inhibitor,H-BIOA-006-1
+771,BRD-K59284035-001-02-0,EGFR inhibitor,H-BIOA-005-1
+772,BRD-K59469039-001-04-9,Angiogenesis inhibitor,H-BIOA-004-1
+773,BRD-K59574735-001-02-7,leukotriene synthesis inhibitor,H-BIOA-003-1
+774,BRD-K59753853-001-01-5,glutamate receptor antagonist,H-BIOA-002-1
+775,BRD-K59851896-001-02-4,GABA release inhibitor,H-BIOA-002-1
+776,BRD-K59983611-001-05-2,bacterial antifolate,H-BIOA-003-1
+777,BRD-K60025295-003-02-5,antibiotic,H-BIOA-005-1
+778,BRD-K60038276-001-02-5,angiotensin receptor antagonist,H-BIOA-005-1
+779,BRD-K60174629-001-02-2,prolyl endopeptidase inhibitor,H-BIOA-004-1
+780,BRD-K60184833-001-03-1,tyrosine kinase inhibitor,H-BIOA-003-1
+781,BRD-K60640630-001-03-7,glucocorticoid receptor agonist,H-BIOA-002-1
+782,BRD-K60770992-001-01-8,Dopamine receptor agonist,H-BIOA-003-1
+783,BRD-K60770992-066-05-2,dopamine receptor agonist,H-BIOA-005-1
+784,BRD-K60923938-001-02-8,sodium channel activator,H-BIOA-003-1
+785,BRD-K60932973-001-01-7,dopamine receptor agonist,H-BIOA-003-1
+786,BRD-K61250553-001-02-9,opioid receptor agonist,H-BIOA-002-1
+787,BRD-K61250553-003-05-8,opioid receptor agonist,H-BIOA-002-1
+788,BRD-K61269089-001-01-4,Protein kinase inhibitor,H-BIOA-006-1
+789,BRD-K61271364-001-02-4,GABA receptor antagonist,H-BIOA-006-1
+790,BRD-K61443650-236-02-4,other antibiotic,H-BIOA-005-1
+791,BRD-K61496577-001-03-8,glucocorticoid receptor agonist,H-BIOA-003-1
+792,BRD-K61951118-001-01-2,GABA benzodiazepine site receptor inverse agonist,H-BIOA-003-1
+793,BRD-K62008436-001-03-1,tubulin polymerization inhibitor,H-BIOA-002-1
+794,BRD-K62310379-001-03-0,glucocorticoid receptor agonist,H-BIOA-004-1
+795,BRD-K62363391-001-05-8,bacterial antifolate,H-BIOA-004-1
+796,BRD-K62456038-001-01-8,dopamine receptor agonist,H-BIOA-004-1
+797,BRD-K62607865-001-03-0,bacterial cell wall synthesis inhibitor,H-BIOA-002-1
+798,BRD-K62609077-001-02-2,adrenergic receptor antagonist|GABA receptor antagonist|serotonin receptor antagonist,H-BIOA-005-1
+799,BRD-K62792802-001-02-8,Guanylyl cyclase inhibitor,H-BIOA-002-1
+800,BRD-K62929068-001-05-8,Purinergic receptor activator,H-BIOA-003-1
+801,BRD-K62996583-001-03-8,calcium channel blocker,H-BIOA-004-1
+802,BRD-K63089472-001-02-7,Inhibitor of methyl esterification of farnesylated proteins,H-BIOA-002-1
+803,BRD-K63165456-001-03-3,Adrenergic receptor agonist,H-BIOA-002-1
+804,BRD-K63430059-001-06-5,DNA synthesis inhibitor,H-BIOA-004-1
+805,BRD-K63630713-001-05-0,sodium/potassium/chloride transporter inhibitor,H-BIOA-003-1
+806,BRD-K63750851-001-06-6,dehydrogenase inhibitor|inositol monophosphatase inhibitor,H-BIOA-002-1
+807,BRD-K63861289-001-03-0,guanylyl cyclase activator,H-BIOA-006-1
+808,BRD-K64044582-001-02-8,ACAT inhibitor,H-BIOA-002-1
+809,BRD-K64746805-001-02-9,Phosphodiesterase inhibitor,H-BIOA-002-1
+810,BRD-K64862097-001-03-9,glucocorticoid receptor agonist,H-BIOA-003-1
+811,BRD-K64994968-001-03-6,Progesterone receptor agonist,H-BIOA-004-1
+812,BRD-K65417056-003-03-6,Local anesthetic,H-BIOA-004-1
+813,BRD-K65639003-001-02-5,phosphodiesterase inhibitor,H-BIOA-006-1
+814,BRD-K65667145-001-05-8,cell division inducer,H-BIOA-002-1
+815,BRD-K65814004-001-02-3,nitric oxide synthase inhibitor|aldehyde dehydrogenase inhibitor|cytochrome P450 inhibitor|NADPH oxidase inhibitor|xanthine oxidase inhibitor,H-BIOA-002-1
+816,BRD-K66206289-003-03-1,Acetylcholine receptor antagonist,H-BIOA-002-1
+817,BRD-K66353228-001-05-4,myorelaxant,H-BIOA-004-1
+818,BRD-K66404838-003-03-8,opioid receptor agonist|opioid receptor antagonist,H-BIOA-002-1
+819,BRD-K66808046-065-01-1,chelating agent,H-BIOA-005-1
+820,BRD-K66874953-001-02-7,TP53 inhibitor,H-BIOA-003-1
+821,BRD-K67100011-003-03-0,bacterial cell wall synthesis inhibitor,H-BIOA-005-1
+822,BRD-K67102207-001-02-6,HDAC inhibitor,H-BIOA-006-1
+823,BRD-K67217586-001-02-3,cholinesterase inhibitor,H-BIOA-005-1
+824,BRD-K67277431-002-03-0,thromboxane receptor antagonist|thromboxane synthase inhibitor,H-BIOA-002-1
+825,BRD-K67298865-001-02-5,TGF beta receptor inhibitor,H-BIOA-003-1
+826,BRD-K67783091-001-05-5,dopamine receptor antagonist,H-BIOA-003-1
+827,BRD-K67966701-335-03-5,angiotensin converting enzyme inhibitor,H-BIOA-003-1
+828,BRD-K68143200-001-02-6,CDC inhibitor,H-BIOA-003-1
+829,BRD-K68332390-001-02-5,aldose reductase inhibitor|reductase inhibitor,H-BIOA-006-1
+830,BRD-K68336408-003-02-2,EGFR inhibitor,H-BIOA-002-1
+831,BRD-K68402494-001-04-7,myosin light chain kinase inhibitor,H-BIOA-002-1
+832,BRD-K68553471-003-04-0,antihypertensive agent,H-BIOA-002-1
+833,BRD-K68558722-001-02-4,cyclooxygenase inhibitor,H-BIOA-005-1
+834,BRD-K68620903-001-03-1,progesterone receptor agonist,H-BIOA-003-1
+835,BRD-K69023402-001-02-5,ATPase inhibitor|calcium channel blocker|PKC activator,H-BIOA-004-1
+836,BRD-K69195780-001-01-5,Serotonin receptor agonist,H-BIOA-003-1
+837,BRD-K70246307-001-02-5,vitamin B2,H-BIOA-005-1
+838,BRD-K70281171-001-01-7,Dopamine receptor antagonist,H-BIOA-003-1
+839,BRD-K70301876-034-02-0,selective serotonin reuptake inhibitor (SSRI),H-BIOA-006-1
+840,BRD-K70487031-001-01-0,dopamine receptor antagonist,H-BIOA-003-1
+841,BRD-K70778732-003-05-1,adrenergic receptor antagonist|serotonin receptor antagonist|serotonin reuptake inhibitor,H-BIOA-004-1
+842,BRD-K70881766-001-02-3,Acetylcholinesterase inhibitor,H-BIOA-002-1
+843,BRD-K71133585-236-05-2,vitamin K antagonist,H-BIOA-005-1
+844,BRD-K71726959-001-05-9,CDK inhibitor,H-BIOA-002-1
+845,BRD-K71799778-001-02-2,CDK inhibitor,H-BIOA-002-1
+846,BRD-K71799949-001-06-7,carboxamide antiepileptic,H-BIOA-002-1
+847,BRD-K72034655-001-02-1,apoptosis inducer|antileukemic,H-BIOA-005-1
+848,BRD-K72166146-066-02-1,serotonin receptor agonist,H-BIOA-006-1
+849,BRD-K72259270-003-05-8,sodium channel blocker,H-BIOA-005-1
+850,BRD-K72903603-001-04-6,Reverse transcriptase inhibitor,H-BIOA-004-1
+851,BRD-K73107279-003-03-4,acetylcholine receptor agonist,H-BIOA-005-1
+852,BRD-K73109821-001-05-2,potassium channel activator,H-BIOA-002-1
+853,BRD-K73391359-003-03-7,local anesthetic,H-BIOA-005-1
+854,BRD-K73589401-001-04-6,mineralocorticoid receptor agonist,H-BIOA-004-1
+855,BRD-K73642618-001-05-9,dopamine receptor antagonist,H-BIOA-005-1
+856,BRD-K73789395-001-04-0,RAF inhibitor,H-BIOA-003-1
+857,BRD-K73999723-001-02-2,angiotensin receptor antagonist,H-BIOA-006-1
+858,BRD-K74141488-003-03-9,fungal squalene epoxidase inhibitor,H-BIOA-004-1
+859,BRD-K74148702-001-02-0,Cyclooxygenase inhibitor,H-BIOA-003-1
+860,BRD-K74212935-001-03-1,Dopamine agonist,H-BIOA-003-1
+861,BRD-K74765201-001-03-5,leukotriene receptor antagonist,H-BIOA-002-1
+862,BRD-K74913225-001-03-3,Carbonic anhydrase inhibitor,H-BIOA-004-1
+863,BRD-K75089421-001-02-5,sodium channel blocker,H-BIOA-004-1
+864,BRD-K75089421-003-05-4,sodium channel blocker,H-BIOA-004-1
+865,BRD-K75181824-001-02-3,inhibitor of methyl esterification of geranylgeranylated proteins,H-BIOA-004-1
+866,BRD-K75615183-001-01-7,Adrenergic receptor agonist,H-BIOA-003-1
+867,BRD-K75641298-001-01-5,dopamine receptor antagonist|serotonin receptor antagonist,H-BIOA-004-1
+868,BRD-K75641298-003-05-2,dopamine receptor antagonist|serotonin receptor antagonist,H-BIOA-003-1
+869,BRD-K75844781-001-01-9,serotonin receptor agonist,H-BIOA-003-1
+870,BRD-K75958195-001-01-7,serotonin receptor antagonist,H-BIOA-002-1
+871,BRD-K75958195-037-03-7,serotonin receptor antagonist,H-BIOA-004-1
+872,BRD-K76022557-001-01-3,dopamine receptor agonist,H-BIOA-003-1
+873,BRD-K76064317-001-04-0,FLT3 inhibitor,H-BIOA-002-1
+874,BRD-K76205745-001-02-5,angiotensin receptor antagonist,H-BIOA-006-1
+875,BRD-K76274772-001-02-7,Ceramidase inhibitor,H-BIOA-002-1
+876,BRD-K76304753-003-05-4,local anesthetic,H-BIOA-004-1
+877,BRD-K76723084-001-05-9,retinoid receptor agonist,H-BIOA-004-1
+878,BRD-K76805682-001-02-7,glycogen synthase kinase inhibitor,H-BIOA-003-1
+879,BRD-K76810206-001-05-7,adrenergic receptor antagonist,H-BIOA-004-1
+880,BRD-K76812510-236-05-6,cyclooxygenase inhibitor|opioid receptor agonist,H-BIOA-003-1
+881,BRD-K76927775-001-05-0,DNA inhibitor,H-BIOA-002-1
+882,BRD-K77554836-001-03-3,glucocorticoid receptor agonist,H-BIOA-002-1
+883,BRD-K77641333-003-05-7,adrenergic receptor agonist,H-BIOA-004-1
+884,BRD-K77695569-001-05-2,angiogenesis inhibitor,H-BIOA-002-1
+885,BRD-K77771411-001-04-4,imidazoline receptor agonist,H-BIOA-004-1
+886,BRD-K77925998-001-01-3,serotonin receptor agonist,H-BIOA-003-1
+887,BRD-K77925998-050-02-8,serotonin receptor agonist,H-BIOA-006-1
+888,BRD-K77925998-332-03-8,serotonin receptor agonist,H-BIOA-005-1
+889,BRD-K77947974-001-04-9,dopamine receptor antagonist,H-BIOA-003-1
+890,BRD-K77987382-001-06-6,acetylcholinesterase inhibitor|microtubule inhibitor|tubulin inhibitor,H-BIOA-003-1
+891,BRD-K78010432-001-05-8,diuretic,H-BIOA-004-1
+892,BRD-K78113049-001-05-5,topoisomerase inhibitor,H-BIOA-004-1
+893,BRD-K78280988-001-02-2,cannabinoid receptor agonist|potassium channel blocker|TRPV agonist,H-BIOA-004-1
+894,BRD-K78294846-001-03-3,calcium channel blocker,H-BIOA-005-1
+895,BRD-K78364995-236-03-5,bacterial cell wall synthesis inhibitor,H-BIOA-002-1
+896,BRD-K78599730-001-03-4,farnesyltransferase inhibitor|NFkB pathway inhibitor|ras farnesyltransferase inhibitor,H-BIOA-002-1
+897,BRD-K78643075-001-03-3,dopamine receptor antagonist,H-BIOA-002-1
+898,BRD-K78692225-001-03-9,dihydroorotate dehydrogenase inhibitor|PDGFR tyrosine kinase receptor inhibitor,H-BIOA-003-1
+899,BRD-K78815826-001-05-4,cyclooxygenase inhibitor,H-BIOA-002-1
+900,BRD-K78838262-001-02-4,hypolipidemic,H-BIOA-006-1
+901,BRD-K78959463-001-02-5,calcium channel activator,H-BIOA-004-1
+902,BRD-K79092138-001-05-2,POXB inhibitor|bacterial DNA inhibitor,H-BIOA-004-1
+903,BRD-K79131256-001-04-7,tubulin polymerization inhibitor,H-BIOA-004-1
+904,BRD-K79425933-001-03-6,dopamine receptor antagonist,H-BIOA-004-1
+905,BRD-K79437791-001-02-4,Inhibitor of methylation of endogenous isoprenylated proteins,H-BIOA-002-1
+906,BRD-K79501723-001-02-0,histamine receptor modulator,H-BIOA-006-1
+907,BRD-K79501723-003-03-4,histamine receptor modulator,H-BIOA-002-1
+908,BRD-K79711234-001-06-8,bacterial 50S ribosomal subunit inhibitor,H-BIOA-004-1
+909,BRD-K79759585-001-02-1,phosphodiesterase inhibitor,H-BIOA-005-1
+910,BRD-K80334323-001-03-5,progestogen hormone,H-BIOA-004-1
+911,BRD-K80348542-339-03-4,Protein synthesis inhibitor,H-BIOA-004-1
+912,BRD-K80353807-001-06-3,vasodilator,H-BIOA-002-1
+913,BRD-K80396088-001-03-9,sulfonylurea,H-BIOA-004-1
+914,BRD-K80738081-001-06-2,cytochrome P450 inhibitor|SIRT activator,H-BIOA-003-1
+915,BRD-K80946661-001-02-8,p53 activator,H-BIOA-006-1
+916,BRD-K81029756-001-02-8,L-type calcium channel blocker|calcium channel antagonist|calcium channel blocker,H-BIOA-004-1
+917,BRD-K81144366-003-03-1,adrenergic receptor antagonist,H-BIOA-004-1
+918,BRD-K81272440-001-02-6,calcium channel blocker,H-BIOA-002-1
+919,BRD-K81272440-236-05-1,calcium channel blocker,H-BIOA-003-1
+920,BRD-K81473089-003-04-8,acetylcholinesterase inhibitor,H-BIOA-004-1
+921,BRD-K81709173-001-03-8,glucocorticoid receptor agonist,H-BIOA-002-1
+922,BRD-K81839095-001-04-6,estrogen receptor agonist,H-BIOA-005-1
+923,BRD-K82036761-003-02-1,Serotonin receptor antagonist,H-BIOA-006-1
+924,BRD-K82103381-003-03-7,vasodilator,H-BIOA-006-1
+925,BRD-K82236179-001-05-0,NADPH inhibitor,H-BIOA-003-1
+926,BRD-K82255054-001-03-5,GABA receptor agonist,H-BIOA-003-1
+927,BRD-K82561139-001-05-0,casein kinase inhibitor,H-BIOA-003-1
+928,BRD-K82562631-236-02-0,Cyclooxygenase inhibitor,H-BIOA-006-1
+929,BRD-K82577285-001-01-7,Dopamine receptor agonist,H-BIOA-003-1
+930,BRD-K82795137-001-02-3,histamine receptor antagonist,H-BIOA-006-1
+931,BRD-K82846253-001-03-0,insulin secretagogue,H-BIOA-004-1
+932,BRD-K82865713-001-02-6,cAMP inhibitor,H-BIOA-002-1
+933,BRD-K83459933-001-02-1,angiogenesis inhibitor,H-BIOA-006-1
+934,BRD-K83597974-003-05-7,Monoamine oxidase inhibitor,H-BIOA-002-1
+935,BRD-K84175871-003-02-2,Adrenergic receptor agonist,H-BIOA-006-1
+936,BRD-K84421793-001-01-1,dopamine receptor agonist,H-BIOA-003-1
+937,BRD-K84595254-001-03-0,ATPase inhibitor,H-BIOA-003-1
+938,BRD-K84663978-001-02-3,phosphodiesterase inhibitor|platelet aggregation inhibitor|potassium channel blocker,H-BIOA-002-1
+939,BRD-K85090592-008-05-2,acetylcholine receptor agonist,H-BIOA-004-1
+940,BRD-K85119730-001-06-5,ATP channel blocker,H-BIOA-003-1
+941,BRD-K85242180-001-01-1,"indoleamine 2,3-dioxygenase inhibitor",H-BIOA-003-1
+942,BRD-K85307935-236-02-0,bacterial DNA gyrase inhibitor,H-BIOA-006-1
+943,BRD-K85383046-001-02-5,chloride channel blocker,H-BIOA-002-1
+944,BRD-K85883481-001-04-2,glucocorticoid receptor agonist,H-BIOA-002-1
+945,BRD-K85985071-001-03-3,Topoisomerase inhibitor,H-BIOA-002-1
+946,BRD-K86204871-001-02-2,sterol demethylase inhibitor,H-BIOA-004-1
+947,BRD-K86434416-001-02-7,Monoamine oxidase inhibitor,H-BIOA-003-1
+948,BRD-K86434416-003-03-1,Monoamine oxidase inhibitor,H-BIOA-002-1
+949,BRD-K86873305-236-03-0,Bacterial cell wall synthesis inhibitor,H-BIOA-003-1
+950,BRD-K86882815-001-01-6,dopamine receptor agonist|prolactin inhibitor|prolactin secretion inhibitor,H-BIOA-003-1
+951,BRD-K87024524-065-05-2,monoamine oxidase inhibitor,H-BIOA-005-1
+952,BRD-K87049188-001-03-6,chelating agent|dopamine beta hydroxylase inhibitor,H-BIOA-004-1
+953,BRD-K87156652-001-05-1,antithyroid agent,H-BIOA-004-1
+954,BRD-K87827419-001-02-8,DNA alkylating agent|DNA inhibitor,H-BIOA-005-1
+955,BRD-K87990216-001-03-7,glucocorticoid receptor agonist,H-BIOA-004-1
+956,BRD-K87991767-001-03-8,carbonic anhydrase inhibitor|cyclooxygenase inhibitor,H-BIOA-005-1
+957,BRD-K88090157-050-04-1,antihistamine,H-BIOA-003-1
+958,BRD-K88282786-001-02-0,cannabinoid receptor agonist,H-BIOA-002-1
+959,BRD-K88366685-300-03-7,3-ketoacyl CoA thiolase inhibitor,H-BIOA-002-1
+960,BRD-K88405679-003-01-5,antihistamine,H-BIOA-006-1
+961,BRD-K88429204-001-05-4,dihydrofolate reductase inhibitor,H-BIOA-004-1
+962,BRD-K88568253-011-03-3,monoamine oxidase inhibitor,H-BIOA-002-1
+963,BRD-K88611939-001-02-6,glutamate receptor agonist,H-BIOA-002-1
+964,BRD-K88743730-001-01-0,serotonin receptor partial agonist,H-BIOA-005-1
+965,BRD-K88789588-001-03-2,aromatase inhibitor,H-BIOA-004-1
+966,BRD-K88809146-003-02-1,monoamine oxidase inhibitor,H-BIOA-002-1
+967,BRD-K88849294-001-02-1,Tyrosine phosphatase inhibitor,H-BIOA-006-1
+968,BRD-K88871508-001-01-9,Dopamine receptor agonist,H-BIOA-004-1
+969,BRD-K89046952-001-03-4,bacterial cell wall synthesis inhibitor,H-BIOA-004-1
+970,BRD-K89055274-048-04-5,muscle relaxant,H-BIOA-002-1
+971,BRD-K89125793-001-05-4,antiprotozoal agent,H-BIOA-003-1
+972,BRD-K89210380-001-03-8,vitamin B,H-BIOA-004-1
+973,BRD-K89272762-001-04-4,chloride channel blocker,H-BIOA-003-1
+974,BRD-K89375097-300-05-4,acetylcholine receptor antagonist,H-BIOA-002-1
+975,BRD-K89704198-001-05-7,adrenergic receptor antagonist,H-BIOA-005-1
+976,BRD-K89732114-001-03-4,dopamine receptor antagonist,H-BIOA-003-1
+977,BRD-K89732114-300-05-5,dopamine receptor antagonist,H-BIOA-005-1
+978,BRD-K90027355-001-03-4,mineralocorticoid receptor antagonist,H-BIOA-002-1
+979,BRD-K90333595-001-02-8,adrenergic receptor antagonist,H-BIOA-004-1
+980,BRD-K90333595-003-04-0,adrenergic receptor antagonist,H-BIOA-003-1
+981,BRD-K90524085-001-05-2,phosphodiesterase inhibitor|platelet aggregation inhibitor,H-BIOA-002-1
+982,BRD-K90733503-002-03-6,bacterial cell wall synthesis inhibitor,H-BIOA-004-1
+983,BRD-K90976994-001-02-1,Bile acid,H-BIOA-002-1
+984,BRD-K91263825-003-03-2,tricyclic antidepressant,H-BIOA-003-1
+985,BRD-K91301684-003-02-2,bradykinin receptor antagonist|tubulin inhibitor,H-BIOA-005-1
+986,BRD-K91315211-300-02-4,histamine receptor agonist|histamine receptor antagonist,H-BIOA-006-1
+987,BRD-K91315211-334-02-3,histamine receptor agonist|histamine receptor antagonist,H-BIOA-002-1
+988,BRD-K91336023-001-01-4,dopamine receptor agonist,H-BIOA-004-1
+989,BRD-K91370081-001-04-6,DNA synthesis inhibitor,H-BIOA-004-1
+990,BRD-K92000912-001-02-7,cannabinoid receptor antagonist,H-BIOA-004-1
+991,BRD-K92049597-001-05-9,sodium channel blocker,H-BIOA-004-1
+992,BRD-K92123432-237-02-8,Cyclooxygenase inhibitor,H-BIOA-006-1
+993,BRD-K92588747-001-01-4,dopamine receptor antagonist,H-BIOA-004-1
+994,BRD-K92678294-001-01-0,Isoflavone,H-BIOA-006-1
+995,BRD-K92731339-227-02-3,angiotensin converting enzyme inhibitor,H-BIOA-006-1
+996,BRD-K92758126-001-06-3,NFkB pathway inhibitor,H-BIOA-004-1
+997,BRD-K92778217-001-06-1,Cyclooxygenase inhibitor,H-BIOA-002-1
+998,BRD-K93080877-001-02-1,tripeptidyl peptidase inhibitor,H-BIOA-003-1
+999,BRD-K93201660-001-04-0,myosin light chain kinase inhibitor,H-BIOA-002-1
+1000,BRD-K93258693-001-02-5,PPAR receptor antagonist,H-BIOA-002-1
+1001,BRD-K93280214-004-02-3,GABA receptor antagonist,H-BIOA-004-1
+1002,BRD-K93332168-001-03-2,monoamine oxidase inhibitor,H-BIOA-005-1
+1003,BRD-K93441486-067-03-7,Acetylcholine receptor antagonist,H-BIOA-002-1
+1004,BRD-K93461745-001-01-5,serotonin receptor agonist,H-BIOA-002-1
+1005,BRD-K93461745-003-03-7,serotonin receptor agonist,H-BIOA-004-1
+1006,BRD-K93568044-001-03-1,glucocorticoid receptor agonist,H-BIOA-004-1
+1007,BRD-K93754473-048-05-3,estrogen receptor antagonist|selective estrogen receptor modulator (SERM),H-BIOA-002-1
+1008,BRD-K94144010-001-05-5,nicotine metabolite,H-BIOA-002-1
+1009,BRD-K94325918-001-02-0,Apoptosis stimulant,H-BIOA-006-1
+1010,BRD-K94379058-001-02-7,cannabinoid receptor inverse agonist,H-BIOA-004-1
+1011,BRD-K94512704-001-02-1,dopamine receptor antagonist,H-BIOA-004-1
+1012,BRD-K94689771-001-02-5,cytochrome P450 inhibitor,H-BIOA-005-1
+1013,BRD-K94841585-001-03-6,laxative|free radical generator,H-BIOA-006-1
+1014,BRD-K94887716-001-01-5,Serotonin receptor agonist,H-BIOA-003-1
+1015,BRD-K95237249-001-05-9,uricosuric blocker,H-BIOA-002-1
+1016,BRD-K95309561-001-05-6,estrogen receptor agonist,H-BIOA-005-1
+1017,BRD-K95603879-001-03-4,ATPase inhibitor,H-BIOA-003-1
+1018,BRD-K95763993-001-03-7,PDGFR tyrosine kinase receptor inhibitor,H-BIOA-004-1
+1019,BRD-K96144918-001-02-3,KPL-1 tumor suppressor,H-BIOA-002-1
+1020,BRD-K96670504-001-01-9,Glucokinase inhibitor,H-BIOA-006-1
+1021,BRD-K97061094-001-03-2,histamine receptor antagonist,H-BIOA-005-1
+1022,BRD-K97158071-001-05-8,dopamine receptor antagonist,H-BIOA-004-1
+1023,BRD-K97181089-310-03-0,sodium channel blocker,H-BIOA-004-1
+1024,BRD-K97309399-001-02-9,dopamine receptor antagonist,H-BIOA-005-1
+1025,BRD-K97399794-335-03-1,polar auxin transport inhibitor,H-BIOA-002-1
+1026,BRD-K97440753-066-03-3,adrenergic receptor antagonist|prolactin inhibitor,H-BIOA-002-1
+1027,BRD-K97521363-001-04-7,glycolysis inhibitor,H-BIOA-002-1
+1028,BRD-K97530723-001-07-6,melatonin receptor agonist|nitric oxide synthase inhibitor,H-BIOA-004-1
+1029,BRD-K97564742-050-05-3,histamine receptor antagonist,H-BIOA-003-1
+1030,BRD-K97688263-001-02-9,sodium channel blocker,H-BIOA-002-1
+1031,BRD-K97688263-003-04-1,sodium channel blocker,H-BIOA-002-1
+1032,BRD-K97746869-001-05-6,ATP channel blocker,H-BIOA-003-1
+1033,BRD-K97799481-001-02-0,adenosine receptor antagonist,H-BIOA-006-1
+1034,BRD-K98039984-001-03-0,glucocorticoid receptor agonist,H-BIOA-003-1
+1035,BRD-K98174813-001-05-7,bacterial 30S ribosomal subunit inhibitor,H-BIOA-002-1
+1036,BRD-K98530306-001-02-1,adrenergic receptor agonist,H-BIOA-002-1
+1037,BRD-K98530306-003-05-0,adrenergic receptor agonist,H-BIOA-003-1
+1038,BRD-K98763141-001-06-8,Cyclooxygenase inhibitor,H-BIOA-002-1
+1039,BRD-K98769987-001-01-3,benzodiazepine receptor antagonist,H-BIOA-003-1
+1040,BRD-K99029477-001-02-6,Photosynthesis inhibitor,H-BIOA-006-1
+1041,BRD-K99107520-001-01-9,glutamate receptor antagonist,H-BIOA-002-1
+1042,BRD-K99121711-001-03-5,sodium channel blocker,H-BIOA-004-1
+1043,BRD-K99411983-001-02-3,"Colchicine isomer, non-binder of microtubules",H-BIOA-004-1
+1044,BRD-K99586414-236-02-3,bacterial cell wall synthesis inhibitor,H-BIOA-005-1
+1045,BRD-K99792991-001-02-6,potassium channel activator,H-BIOA-006-1
+1046,BRD-K99946902-001-02-6,local anesthetic,H-BIOA-005-1
