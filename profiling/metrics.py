@@ -19,6 +19,45 @@ Learning to Rank for Information Retrieval (Tie-Yan Liu)
 import numpy as np
 
 
+def interpolated_precision_recall_curve(Y_true_matrix, Y_predict_matrix):
+    """ Compute the average precision / recall curve over all queries in a matrix.
+    That is, consider each point in the graph as a query and evaluate all nearest neighbors until
+    all positives have been found. Y_true_matrix is a binary matrix, Y_predict_matrix is a
+    continuous matrix. Each row in the matrices is a query, and for each one PR curve can be computed.
+    Since each PR curve has a different number of recall points, the curves are interpolated to 
+    cover the max number of recall points. This is standard practice in Information Retrieval research """
+
+    from sklearn.metrics import precision_recall_curve
+
+    # Suppress self matching
+    Y_predict_matrix[np.diag_indices(Y_predict_matrix.shape[0])] = -1 # Assuming Pearson correlation as the metric
+    Y_true_matrix[np.diag_indices(Y_true_matrix.shape[0])] = False    # Assuming a binary matrix
+
+    # Prepare axes
+    recall_axis = np.linspace(0.0, 1.0, num=Y_true_matrix.shape[0])[::-1]
+    precision_axis = []
+
+    # Each row in the matrix is one query
+    for t in range(Y_true_matrix.shape[0]):
+        # Compute precision / recall for each query
+        precision_t, recall_t, _ = precision_recall_curve(Y_true_matrix[t,:], Y_predict_matrix[t,:])
+
+        # Interpolate max precision at all recall points
+        max_precision = np.maximum.accumulate(precision_t)
+        interpolated_precision = np.zeros_like(recall_axis)
+
+        j = 0
+        for i in range(recall_axis.shape[0]):
+            interpolated_precision[i] = max_precision[j]
+            while recall_axis[i] < recall_t[j]:
+                j += 1
+
+        # Store interpolated results for query
+        precision_axis.append(interpolated_precision[:,np.newaxis])
+    
+    return recall_axis, np.mean( np.concatenate(precision_axis, axis=1), axis=1)
+
+
 def mean_reciprocal_rank(rs):
     """Score is reciprocal of the rank of the first relevant item
     First element is 'rank 1'.  Relevance is binary (nonzero is relevant).
