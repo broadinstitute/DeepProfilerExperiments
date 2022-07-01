@@ -38,7 +38,10 @@ def interpolated_precision_recall_curve(Y_true_matrix, Y_predict_matrix):
     precision_axis = []
 
     # Each row in the matrix is one query
+    is_query = Y_true_matrix.sum(axis=0) > 1
     for t in range(Y_true_matrix.shape[0]):
+        if not is_query[t]: 
+            continue
         # Compute precision / recall for each query
         precision_t, recall_t, _ = precision_recall_curve(Y_true_matrix[t,:], Y_predict_matrix[t,:])
 
