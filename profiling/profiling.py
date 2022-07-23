@@ -22,7 +22,7 @@ class WhiteningNormalizer(object):
         return np.dot(X - self.mu, self.W)
     
 
-def load_correlation_matrix(filename, save_annotations=False):
+def load_similarity_matrix(filename):
     # Load matrix in triplet format and reshape
     cr_mat = pd.read_csv(filename)
     X = cr_mat.pivot(index="Var1", columns="Var2", values="value").reset_index()
@@ -33,9 +33,6 @@ def load_correlation_matrix(filename, save_annotations=False):
     
     # Make sure the matrix is sorted by treatment
     X = X.loc[X.Var1.isin(Y.Var1), ["Var1"] + list(Y.Var1)].sort_values("Var1")
-    
-    if save_annotations:
-        Y.to_csv("data/TAORF_MOA_MATCHES.csv", index=False)
     
     return X,Y
     
