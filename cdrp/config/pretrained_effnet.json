@@ -1,0 +1,88 @@
+{
+  "dataset": {
+    "metadata": {
+      "label_field": "Treatment",
+      "control_value": "DMSO@0"
+    },
+    "images": {
+      "channels": [
+        "DNA",
+        "RNA",
+        "ER",
+        "AGP",
+        "Mito"
+      ],
+      "file_format": "tif",
+      "bits": 16,
+      "width": 696,
+      "height": 520
+    },
+    "locations": {
+      "mode": "single_cells",
+      "box_size": 128,
+      "area_coverage": 0.75,
+      "mask_objects": false
+    }
+  },
+  "prepare": {
+    "illumination_correction": {
+      "down_scale_factor": 4,
+      "median_filter_size": 24
+    },
+    "compression": {
+      "implement": true,
+      "scaling_factor": 1.0
+    }
+  },
+  "profile": {
+    "use_pretrained_input_size": 224,
+    "feature_layer": "block6a_activation",
+    "checkpoint": "None",
+    "batch_size": 8
+  },
+  "train": {
+    "partition": {
+      "targets": [
+        "Treatment"
+      ],
+      "split_field": "Replicate_Use",
+      "training_values": [
+        "Training"
+      ],
+      "validation_values": [
+        "Validation"
+      ]
+    },
+    "model": {
+      "name": "efficientnet",
+      "crop_generator": "repeat_channel_crop_generator",
+      "metrics": [
+        "accuracy",
+        "top_k"
+      ],
+      "epochs": 100,
+      "initialization": "ImageNet",
+      "params": {
+        "learning_rate": 0.005,
+        "label_smoothing": 0,
+        "batch_size": 64,
+        "conv_blocks": 0,
+        "feature_dim": 256,
+        "pooling": "avg"
+      },
+      "lr_schedule": "cosine"
+    },
+    "sampling": {
+      "factor": 1,
+      "workers": 4,
+      "cache_size": 15000
+    },
+    "validation": {
+      "frequency": 2,
+      "top_k": 5,
+      "batch_size": 32,
+      "frame": "val",
+      "sample_first_crops": true
+    }
+  }
+}
