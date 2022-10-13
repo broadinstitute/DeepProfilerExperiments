@@ -1,7 +1,7 @@
 {
   "dataset": {
     "metadata": {
-      "label_field": "Treatment",
+      "label_field": "pert_name",
       "control_value": "EMPTY_"
     },
     "images": {
@@ -37,14 +37,14 @@
   "train": {
     "partition": {
       "targets": [
-        "Treatment"
+        "pert_name"
       ],
-      "split_field": "Replicate_Use",
+      "split_field": "Split",
       "training": [
         0
       ],
       "validation": [
-        2
+        1
       ]
     },
     "model": {
@@ -56,7 +56,7 @@
         "top_k",
         "average_class_precision"
       ],
-      "epochs": 100,
+      "epochs": 3,
       "initialization": "ImageNet",
       "params": {
         "label_smoothing": 0.0,
@@ -79,7 +79,7 @@
   },
   "profile": {
     "feature_layer": "block6a_activation",
-    "checkpoint": "checkpoint_0030.hdf5",
-    "batch_size": 8
+    "checkpoint": "Cell_Painting_CNN_v1.hdf5",
+    "batch_size": 32
   }
 }
