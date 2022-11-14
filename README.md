@@ -1,6 +1,6 @@
 # DeepProfilerExperiments
 This is a supplementary repository for [DeepProfiler software](https://github.com/cytomining/DeepProfiler/) and
-[the related analysis pre-print](https://cytomining.github.io/DeepProfiler-handbook/).
+[the related analysis pre-print](https://www.biorxiv.org/content/10.1101/2020.12.15.422887v4).
 
 Please see our [DeepProfiler handbook](https://cytomining.github.io/DeepProfiler-handbook/) for documentation.
 
